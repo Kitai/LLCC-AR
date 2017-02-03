@@ -1,0 +1,23 @@
+<script type="text/javascript">
+//<![CDATA[
+
+setTimeout(function() {
+    $(".Message-continue-link").css("display","none");
+  },
+  1);
+  
+function showContinue()
+{
+    $(".Message-continue-link").css("display","block");
+}
+
+//]]>
+</script>
+
+<div style="text-align: center; margin:auto;">
+  <img src="http://files.lab.florianschwarz.net/ibexfiles/LucyCate/mic.png" style="height: 200px; text-align: center;" />
+  <audio controls autoplay preload="auto" style="display: none;" onended="showContinue()">
+    <source src="http://files.lab.florianschwarz.net/ibexfiles/LucyCate/audioinstructions.wav" type="audio/wav" />
+    We are sorry but your system does not support the audio.
+  </audio>
+</div>

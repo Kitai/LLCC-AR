@@ -1,0 +1,22 @@
+.repeated-advice {
+  font-style:italic;
+}
+
+p.Form-Form {
+  font-size: medium;
+  width: 40em;
+}
+
+.Form-Form table {
+  margin: 2.5em 0em;
+  text-align:center;
+}
+
+.VBox-VBox div {
+  margin: 0em !important;
+}
+
+div.blank-page {
+  margin:-10em !important;
+}
+
