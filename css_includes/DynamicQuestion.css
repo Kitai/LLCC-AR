@@ -1,6 +1,7 @@
 p {
   margin:5px;
   max-width: 40em;
+  font-size: 1.3em;
 }
 
 .keyLabel {
@@ -40,10 +41,6 @@ li.scale-box {
 
 .deleteAfter {
   text-align:justify;
-}
-    
-.rawText, .waitFor, .legend {
-  font-size:1.3em;
 }
 
 .deleteAfter {
