@@ -182,6 +182,8 @@ var items = [
                     $("#questionnaire").html(htmlCodeToDOM({include:"questionform"+ITEMID+".html"}));
                     
                     $("#thinkcarefully, #questionnaire").css("display", "none");
+                    
+                    $("#preAllConds, #audioPage, #repeatadvice, #thinkcarefully, #questionnaire").css("text-align", "left");
                 },
                 function(t){                    
                     t.ArrayOfAnswers = [];
