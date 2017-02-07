@@ -17,10 +17,12 @@ var startTime = Date.now();
 //alert(ITEMID);
 
 // Why not just use "First16" and "Second16"? Aren't <Third, Fourth> and <Fifth, Sixth> the exact same pair? So that I know which block a token was played in for analysis later
-var shuffleSequence = seq("Instructions", randomize("First16"),randomize("Second16"),
+var shuffleSequence = seq("FinalScreen");
+/*var shuffleSequence = seq("Instructions", randomize("First16"),randomize("Second16"),
                           "ExpItem",randomize("Third16"),randomize("Fourth16"),
                           "DistItem",randomize( "Fifth16"),randomize("Sixth16"),
                           "FinalScreen","amt");
+*/
 //var shuffleSequence = seq(randomize("First16"),randomize("Second16"),"ExpItem",randomize("Third16"),randomize("Fourth16"),"DistItem",randomize( "Fifth16"),randomize("Sixth16"),"FinalScreen");
 //var practiceItemTypes = ["practice"];
 
@@ -122,14 +124,14 @@ var items = [
         "Message",
             (ISINS ? // If we are in the INS condition
              
-             { 
+             {
                  transfer: "keypress",
                  html: {include: (ITEMID == 1 ? "item1_INS_audio.html" : "item2_INS_audio.html") }  // A single line conditional
              }
             
             : // If we are not in the INS condition
               
-             { 
+             {
                  transfer: "keypress",
                  html: {include: (ITEMID == 1 ? "item1_nonINS_audio.html" : "item2_nonINS_audio.html") }
              }
@@ -138,11 +140,98 @@ var items = [
     ],
     
     ["DistItem",
-        "Message", { 
+        "Message", {
             transfer: "keypress",
             html: {include: "distractor_audio.html" }
         }
     ],
+    
+    ["FinalScreen",
+        "DynamicQuestion", {
+            
+            enabled: false,
+            
+            answers: {Continue: "Click here to continue."},
+            
+            /*preAllConds: htmlCodeToDOM({include:"instrctns_postexpermnt_prequaire_allconds.html"}),
+            audioPage: htmlCodeToDOM({include:"audiorepeatadvice.html"}),
+            repeatedadvice: htmlCodeToDOM({include:
+                                           ( REPEATADVICE ? "rptdadvc_form"+ITEMID+"_"+(ISINS ? "INS" : "non-INS")+".html" : "blank.html" )
+                                          }),
+            thinkcarefully: htmlCodeToDOM({include:
+                                           ( ISLL ? "instrctns_postexpermnt2_thnkcrfly.html" : "blank.html" ),
+                                          }),
+            questionnaire: htmlCodeToDOM({include:"questionform"+ITEMID+".html"}),*/
+     
+            sequence: [
+                
+                "<div id='preAllConds'></div>",
+                "<div id='audioPage'></div>",
+                "<div id='repeatadvice'></div>",
+                "<div id='thinkcarefully'></div>",
+                "<div id='questionnaire'></div>",
+                function(t){ 
+                    $("#preAllConds").html(htmlCodeToDOM({include:"instrctns_postexpermnt_prequaire_allconds.html"}));
+                    $("#audioPage").html(htmlCodeToDOM({include:"audiorepeatadvice.html"}));
+                    $("#repeatedadvice").html(htmlCodeToDOM({include:
+                                                             ( REPEATADVICE ? "rptdadvc_form"+ITEMID+"_"+(ISINS ? "INS" : "non-INS")+".html" : "blank.html" )
+                                                            }));
+                    $("#thinkcarefully").html(htmlCodeToDOM({include:
+                                           ( ISLL ? "instrctns_postexpermnt2_thnkcrfly.html" : "blank.html" ),
+                                          }));
+                    $("#questionnaire").html(htmlCodeToDOM({include:"questionform"+ITEMID+".html"}));
+                    
+                    $("#thinkcarefully, #questionnaire").css("display", "none");
+                },
+                function(t){                    
+                    t.ArrayOfAnswers = [];
+                    
+                    t.HasPlayedFile = function() {
+                        if (this.id == "aud1") t.aud1played = true;
+                        else if (this.id == "aud2") t.aud2played = true;
+                        
+                        if(t.aud1played && t.aud2played) $("#thinkcarefully, #questionnaire").css("display", "block");
+                        
+                        t.ArrayOfAnswers.push([
+                            ["Event", "Playback Ended"],
+                            ["AudioID", this.id],
+                            ["Timecode", this.currentTime],
+                            ["Time", new Date().now - t.creationTime]
+                        ]);
+                    }
+                    
+                    t.ClickOnPlay = function(audio) {
+                        t.ArrayOfAnswers.push([
+                          ["Event", "Click on audio"],
+                          ["ControlID", this.id],
+                          ["Timecode", this.currentTime],
+                          ["Time", new Date().now - t.creationTime]
+                        ]);
+                    };
+                
+                    t.ClickOnRadio = function(radio) {
+                        t.ArrayOfAnswers.push([
+                          ["Event", "Click on radio"],
+                          ["ControlID", this.id],
+                          ["Timecode", this.currentTime],
+                          ["Time", new Date().now - t.creationTime]
+                        ]);
+            
+                        if ($( "input:checked").length == 5)
+                          $(document).append($("<a>Click here to continue.</a>").bind("click", function(){t.finishedCallback(t.ArrayOfAnswers);}));
+                    };
+                
+                    $("#aud1").bind("ended", t.HasPlayedFile);
+                    $("#aud2").bind("ended", t.HasPlayedFile);
+                    $("#aud1, #aud2").bind("play", t.ClickOnPlay);
+
+                    $("input").bind("click", t.ClickOnRadio);
+                
+                }
+            ]
+        }
+     ],  
+
     
     ["FinalScreen",
         "Questionnaire", {
@@ -251,7 +340,7 @@ var items = [
     ["Sixth16","LexDecision", {word: "camp",right: 0}],
     
     // Handling MTurk
-    ["amt", "Form", { 
+    ["amt", "Form", {
         html: {include: "amt_form.html"}
     }],
     
