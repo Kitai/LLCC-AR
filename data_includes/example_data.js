@@ -1,13 +1,17 @@
 var REPEATADVICE = true,
-    ISLL = true,
+    ISLL = false,
     ISINS = true,
-    ITEMID = 2,
+    ITEMID = 1,
     userID = 0; // For MTurk, dealt with at the end
 /*var ISLL = Math.random()>0.5,
     ISINS = Math.random()>0.5,
     REPEATADVICE = Math.random()>0.5,
     ITEMID = 1+Math.floor(Math.random()*2),
     userID = 0; // For MTurk, dealt with at the end*/
+
+var writtenOrAudio = "Written";
+
+if (!REPEATADVICE) writtenOrAudio = "Written";
 
 var startTime = Date.now();
 
@@ -16,13 +20,14 @@ var startTime = Date.now();
 //alert(REPEATADVICE);
 //alert(ITEMID);
 
+//var shuffleSequence = seq("Fifth16", "Sixth16", "FinalScreen");
+
 // Why not just use "First16" and "Second16"? Aren't <Third, Fourth> and <Fifth, Sixth> the exact same pair? So that I know which block a token was played in for analysis later
-var shuffleSequence = seq("FinalScreen");
-/*var shuffleSequence = seq("Instructions", randomize("First16"),randomize("Second16"),
+var shuffleSequence = seq("Instructions", randomize("First16"),randomize("Second16"),
                           "ExpItem",randomize("Third16"),randomize("Fourth16"),
                           "DistItem",randomize( "Fifth16"),randomize("Sixth16"),
-                          "FinalScreen","amt");
-*/
+                          "FinalScreen"+writtenOrAudio,"amt");
+
 //var shuffleSequence = seq(randomize("First16"),randomize("Second16"),"ExpItem",randomize("Third16"),randomize("Fourth16"),"DistItem",randomize( "Fifth16"),randomize("Sixth16"),"FinalScreen");
 //var practiceItemTypes = ["practice"];
 
@@ -61,6 +66,7 @@ define_ibex_controller({
 
     properties: { }
 });
+
 
 define_ibex_controller({
     name: "LexDecision",
@@ -147,6 +153,22 @@ var items = [
     ],
     
     ["FinalScreen",
+        "Preloader", {
+            host: "http://files.lab.florianschwarz.net/ibexfiles/LucyCate/",
+            files: ["item1INSrepondslowly.mp3", "distractorclearmind.mp3"]
+        }
+    ],
+
+    ["FinalScreenWritten",
+        "Questionnaire", {
+            repeatedadvice: ( REPEATADVICE ? "rptdadvc_form"+ITEMID+"_"+(ISINS ? "INS" : "non-INS")+".html" : "blank.html" ),
+            thinkcarefully: ( ISLL ? "instrctns_postexpermnt2_thnkcrfly.html" : "blank.html" ),
+            questionnaire: ("questionform"+ITEMID+".html") //"example_form.html"
+         }
+     
+    ],
+    
+    ["FinalScreenAudio",
         "DynamicQuestion", {
             
             enabled: false,
@@ -170,7 +192,7 @@ var items = [
                 "<div id='repeatadvice'></div>",
                 "<div id='thinkcarefully'></div>",
                 "<div id='questionnaire'></div>",
-                function(t){ 
+                function(t){
                     $("#preAllConds").html(htmlCodeToDOM({include:"instrctns_postexpermnt_prequaire_allconds.html"}));
                     $("#audioPage").html(htmlCodeToDOM({include:"audiorepeatadvice.html"}));
                     $("#repeatedadvice").html(htmlCodeToDOM({include:
@@ -192,22 +214,51 @@ var items = [
                         if (this.id == "aud1") t.aud1played = true;
                         else if (this.id == "aud2") t.aud2played = true;
                         
+                        $(this).parent().children()[0].src = "http://files.lab.florianschwarz.net/ibexfiles/Pictures/Replay.png";
+                        $("#audioBtn1, #audioBtn2").css({"opacity":"1", "filter": "alpha(opacity=100)"});
                         if(t.aud1played && t.aud2played) $("#thinkcarefully, #questionnaire").css("display", "block");
                         
                         t.ArrayOfAnswers.push([
                             ["Event", "Playback Ended"],
-                            ["AudioID", this.id],
+                            ["ControlID", this.id],
                             ["Timecode", this.currentTime],
-                            ["Time", new Date().now - t.creationTime]
+                            ["Time", new Date().getTime() - t.creationTime]
                         ]);
                     }
                     
                     t.ClickOnPlay = function(audio) {
                         t.ArrayOfAnswers.push([
-                          ["Event", "Click on audio"],
+                          ["Event", "Play audio"],
                           ["ControlID", this.id],
                           ["Timecode", this.currentTime],
-                          ["Time", new Date().now - t.creationTime]
+                          ["Time", new Date().getTime() - t.creationTime]
+                        ]);
+                    };
+                
+                    t.ClickOnPause = function(audio) {
+                        t.ArrayOfAnswers.push([
+                          ["Event", "Pause audio"],
+                          ["ControlID", this.id],
+                          ["Timecode", this.currentTime],
+                          ["Time", new Date().getTime() - t.creationTime]
+                        ]);
+                    };
+     
+                    t.ClickOnSeek = function(audio) {
+                        t.ArrayOfAnswers.push([
+                          ["Event", "Seek audio"],
+                          ["ControlID", this.id],
+                          ["Timecode", this.currentTime],
+                          ["Time", new Date().getTime() - t.creationTime]
+                        ]);
+                    };
+
+                    t.ClickedOnSeek = function(audio) {
+                        t.ArrayOfAnswers.push([
+                          ["Event", "Audio seeked"],
+                          ["ControlID", this.id],
+                          ["Timecode", this.currentTime],
+                          ["Time", new Date().getTime() - t.creationTime]
                         ]);
                     };
                 
@@ -216,16 +267,29 @@ var items = [
                           ["Event", "Click on radio"],
                           ["ControlID", this.id],
                           ["Timecode", this.currentTime],
-                          ["Time", new Date().now - t.creationTime]
+                          ["Time", new Date().getTime() - t.creationTime]
                         ]);
             
-                        if ($( "input:checked").length == 5)
-                          $(document).append($("<a>Click here to continue.</a>").bind("click", function(){t.finishedCallback(t.ArrayOfAnswers);}));
+                        if ($("input:checked").length == 5)
+                          t.element.append($("<a class='Message-continue-link'>→ Click here to continue.</a>")
+                                           .bind("click", function(){ t.finishedCallback(t.ArrayOfAnswers);}));
                     };
+
+                    t.ClickOnBtn = function(btn) {
+                        if ($("#audioBtn1").css("opacity") != "1") return;
+                        $(this).children()[0].src = "http://files.lab.florianschwarz.net/ibexfiles/Pictures/Playing.png";
+                        $("#audioBtn1, #audioBtn2").css({"opacity":".50", "filter": "alpha(opacity=50)"});
+                        $(this).children()[1].play();
+                    }
                 
                     $("#aud1").bind("ended", t.HasPlayedFile);
                     $("#aud2").bind("ended", t.HasPlayedFile);
                     $("#aud1, #aud2").bind("play", t.ClickOnPlay);
+                    $("#aud1, #aud2").bind("pause", t.ClickOnPause);
+                    $("#aud1, #aud2").bind("seeked", t.ClickOnSeek);
+                    $("#aud1, #aud2").bind("seeking", t.ClickedOnSeek);
+
+                    $("#audioBtn1, #audioBtn2").bind("click", t.ClickOnBtn);
 
                     $("input").bind("click", t.ClickOnRadio);
                 
@@ -235,14 +299,14 @@ var items = [
      ],  
 
     
-    ["FinalScreen",
+    /*["FinalScreen",
         "Questionnaire", {
             repeatedadvice: ( REPEATADVICE ? "rptdadvc_form"+ITEMID+"_"+(ISINS ? "INS" : "non-INS")+".html" : "blank.html" ),
             thinkcarefully: ( ISLL ? "instrctns_postexpermnt2_thnkcrfly.html" : "blank.html" ),
             questionnaire: ("questionform"+ITEMID+".html") //"example_form.html"
          }
      
-    ],
+    ],*/
     // From here on are the items for the embedded lexical decision experiment
     ["First16","LexDecision", {word: "plowl",right: 1}],
     ["First16","LexDecision", {word: "fout",right: 1}],

@@ -18,14 +18,15 @@
 <p>
   Please give us these last pieces of information before we save your answers.
 </p>
-
-<table>
+    
+<table style="text-align: left;">
 <tr>
-  <td>Is English<br /> you native language?</td>
+  <td>Is English<br /> your native language?</td>
   <td>
     <input name="english" type="radio" value="yes" id="yenglish" class="obligatory" /><label for="yenglish">Yes </label>
     <input name="english" type="radio" value="no" id="nenglish"/><label for="nenglish"> No</label>
   </td>
+</tr>
 <tr>
 <td colspan="2"><label class="error" for="english"></label></td>
 </tr>
@@ -36,7 +37,19 @@
     <input name="audio" type="radio" value="headphones" id="aheadphones"/><label for="aheadphones">Headphones</label><br />
     <input name="audio" type="radio" value="other" id="aother"/><label for="aother">Other: </label><input type="text" name="otherdevice" value=""/>
   </td>
+</tr>
 <tr>
+  <td colspan="2">Which of the following were included in the instructions you received during the experiment you just participated in?
+    (Please click all that apply.)</td>
+</tr>
+<tr>
+  <td colspan="2">
+    <input type="checkbox" name="FandJ" value="FandJ">Press F as in "Frank" for words and J as in "John" for not words.<br />
+    <input type="checkbox" name="advice" value="advice">Please pay very careful attention to the audio guide’s advice, since we will ask you to answer questions about exactly what she said.<br />
+    <input type="checkbox" name="nonce" value="nonce">Try to remember the sounds you hear that are not English words.<br />
+    <input type="checkbox" name="actual" value="actual">Please think very carefully about what the audio guide actually says.<br />
+  </td>
+</tr>
 <tr>
   <td colspan="2">If you have some feedback, please use the following field:</td>
 </tr>
