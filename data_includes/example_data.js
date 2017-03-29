@@ -189,15 +189,11 @@ var items = [
                 
                 "<div id='preAllConds'></div>",
                 "<div id='audioPage'></div>",
-                "<div id='repeatadvice'></div>",
                 "<div id='thinkcarefully'></div>",
                 "<div id='questionnaire'></div>",
                 function(t){
                     $("#preAllConds").html(htmlCodeToDOM({include:"instrctns_postexpermnt_prequaire_allconds.html"}));
                     $("#audioPage").html(htmlCodeToDOM({include:"audiorepeatadvice.html"}));
-                    $("#repeatedadvice").html(htmlCodeToDOM({include:
-                                                             ( REPEATADVICE ? "rptdadvc_form"+ITEMID+"_"+(ISINS ? "INS" : "non-INS")+".html" : "blank.html" )
-                                                            }));
                     $("#thinkcarefully").html(htmlCodeToDOM({include:
                                            ( ISLL ? "instrctns_postexpermnt2_thnkcrfly.html" : "blank.html" ),
                                           }));
@@ -224,6 +220,47 @@ var items = [
                             ["Timecode", this.currentTime],
                             ["Time", new Date().getTime() - t.creationTime]
                         ]);
+                    }
+                        
+                    t.SubmitAnswers = function() {
+                        
+                        var rads = $(document).find("input[type=radio]");
+                        // Sort by name.
+                        var rgs = { };
+                        for (var i = 0; i < rads.length; ++i) {
+                            var rad = $(rads[i]);
+                            if (rad.attr('name')) {
+                                if (! rgs[rad.attr('name')])
+                                    rgs[rad.attr('name')] = [];
+                                rgs[rad.attr('name')].push(rad);
+                            }
+                        }
+                        for (k in rgs) {
+                            // Check if it's oblig.
+                            var oblig = false;
+                            var oneIsSelected = false;
+                            var oneThatWasSelected;
+                            var val;
+                            for (var i = 0; i < rgs[k].length; ++i) {
+                                if (rgs[k][i].hasClass('obligatory')) oblig = true;
+                                if (rgs[k][i].attr('checked')) {
+                                    oneIsSelected = true;
+                                    oneThatWasSelected = i;
+                                    val = rgs[k][i].attr('value');
+                                }
+                            }
+                            if (oblig && (! oneIsSelected)) {
+                              alertOrAddError(rgs[k][0].attr('name'), t.obligatoryRadioErrorGenerator(rgs[k][0].attr('name')));
+                              return;
+                            }
+                            if (oneIsSelected) {
+                              t.ArrayOfAnswers.push([["Field name", rgs[k][0].attr('name')],
+                                           ["Field value", rgs[k][oneThatWasSelected].attr('value')]]);
+                            }
+                        }
+                        
+                        t.finishedCallback(t.ArrayOfAnswers);
+                     
                     }
                     
                     t.ClickOnPlay = function(audio) {
@@ -270,9 +307,9 @@ var items = [
                           ["Time", new Date().getTime() - t.creationTime]
                         ]);
             
-                        if ($("input:checked").length == 5)
+                        if ($("input:checked").length == 5 && typeof $(".Message-continue-link")[0] == "undefined")
                           t.element.append($("<a class='Message-continue-link'>→ Click here to continue.</a>")
-                                           .bind("click", function(){ t.finishedCallback(t.ArrayOfAnswers);}));
+                                           .bind("click", t.SubmitAnswers));
                     };
 
                     t.ClickOnBtn = function(btn) {
