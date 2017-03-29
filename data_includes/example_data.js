@@ -105,6 +105,22 @@ var items = [
             function(x){
                 $("#page").html(htmlCodeToDOM({include:"chatbox.html"}));
             },
+            {pause: 200},
+            function(x){
+                $("#first").css("display", "block");
+                $("#typing").css("display", "none");
+                // $("#sound")[0].play();
+            }
+            {pause: 100},
+            function(x){
+                $("#typing").css("display", "block");
+            }
+            {pause: 1000},
+            function(x){
+                $("#second").css("display", "block");
+                $("#typing").css("display", "none");
+                // $("#sound")[0].play();
+            },
             {this: "answers"}
             
             ]
