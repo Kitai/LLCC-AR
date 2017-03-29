@@ -27,6 +27,8 @@ div.blank-page {
   text-align: right;
   margin: auto;
   position:relative;
+  border: solid 1px black;
+  font:1em/1.4 Arial, Georgia, sans-serif;
 }
 
 .typing {
@@ -40,6 +42,7 @@ div.blank-page {
   right:50px;
   bottom: 10px;
   font-style:italic;
+  opacity: 0.5;
 }
 
 .typing:after {
@@ -54,7 +57,9 @@ div.blank-page {
   -webkit-box-shadow: 3px 3px 4px 0px rgba(50, 50, 50, 0.5);
   -moz-box-shadow:    3px 3px 4px 0px rgba(50, 50, 50, 0.5);
   box-shadow:         3px 3px 4px 0px rgba(50, 50, 50, 0.5);
+  opacity: .65; 
 }
+  
 
 .rightmessage {
     text-align:left;
