@@ -23,7 +23,7 @@ var startTime = Date.now();
 //var shuffleSequence = seq("Fifth16", "Sixth16", "FinalScreen");
 
 // Why not just use "First16" and "Second16"? Aren't <Third, Fourth> and <Fifth, Sixth> the exact same pair? So that I know which block a token was played in for analysis later
-var shuffleSequence = seq("Instructions", randomize("First16"),randomize("Second16"),
+var shuffleSequence = seq("Test", "Instructions", randomize("First16"),randomize("Second16"),
                           "ExpItem",randomize("Third16"),randomize("Fourth16"),
                           "DistItem",randomize( "Fifth16"),randomize("Sixth16"),
                           "FinalScreen"+writtenOrAudio,"amt");
@@ -94,6 +94,23 @@ define_ibex_controller({
 
 
 var items = [
+    
+    ["Test", "DynamicQuestion", {
+        
+        page: "<div id='page'></div>",
+        answers: {Continue: "Click here to continue."},
+        sequence: [
+            
+            {this: "page"},
+            function(x){
+                $("#page").html(htmlCodeToDOM({include:"chatbox.html"}));
+            },
+            {this: "answers"}
+            
+            ]
+        }
+    ],
+    
     
     ["Instructions", "Message", {
         transfer: "click",
