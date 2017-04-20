@@ -136,8 +136,9 @@ var writtenAdvice = function (page) {
                 $("#second").css("display", "block");
                 $("#typing").css("display", "none");
                 x.safeBind($(document),"keydown", function(e) {
-                  if (e.keyCode != "F".charCodeAt(0) && e.keyCode != "J".charCodeAt(0)) return;
-                  x.question = Date.now();
+                  if (e.keyCode == "F".charCodeAt(0) || e.keyCode == "J".charCodeAt(0))
+                    x.finishedCallback([["Event", "End of chatbox"],
+                          ["Time", Date.now()]]);
                 });
             },
             {pause: 200},
