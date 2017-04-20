@@ -137,25 +137,10 @@ var writtenAdvice = function (page) {
                 $("#typing").css("display", "none");
                 x.safeBind($(document),"keydown", function(e) {
                   if (e.keyCode == "F".charCodeAt(0) || e.keyCode == "J".charCodeAt(0))
-                    x.finishedCallback([["Event", "End of chatbox"],
-                          ["Time", Date.now()]]);
+                    x.finishedCallback([[["Event", "End of chatbox"],
+                                     ["Timestamp", Date.now()], ["Correct", "NULL"],
+                                     ["Time", Date.now() - x.creationTime]]]);
                 });
-            },
-            {pause: 200},
-            function(x){
-                $("#first").css("display", "block");
-                $("#typing").css("display", "none");
-                // $("#sound")[0].play();
-            },
-            {pause: 100},
-            function(x){
-                $("#typing").css("display", "block");
-            },
-            {pause: 1000},
-            function(x){
-                $("#second").css("display", "block");
-                $("#typing").css("display", "none");
-                // $("#sound")[0].play();
             },
             {this: "answers"}
         ]
