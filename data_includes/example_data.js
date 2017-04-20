@@ -145,7 +145,7 @@ var writtenAdvice = function (page) {
                 $("#first").css("display", "block");
                 $("#typing").css("display", "none");
                 // $("#sound")[0].play();
-            }
+            },
             {pause: 100},
             function(x){
                 $("#typing").css("display", "block");
