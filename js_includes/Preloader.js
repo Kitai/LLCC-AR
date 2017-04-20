@@ -189,7 +189,7 @@ define_ibex_controller({
         this.html = dget(this.options, "html", "Please wait, resources are loading");
         // The list of files to load
         this.files = this.options.files;
-        this.host = dget(this.options, "host", (typeof host == undefined ? "" : host));
+        this.host = dget(this.options, "host", (typeof host == "undefined" ? "" : host));
         // The alternate host in case the original file doesn't get loaded
         this.alternateHost = dget(this.options, "alternateHost", null);
         // How long do we have to wait before giving up loading?
