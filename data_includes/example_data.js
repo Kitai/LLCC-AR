@@ -533,7 +533,7 @@ var items = [
               "geel.mp3","golf.mp3","groud.mp3","hilm.mp3","loaf.mp3","lub.mp3","lump.mp3","naint.mp3",
               "nose.mp3","pad.mp3","pakth.mp3","path.mp3","petch.mp3","plowl.mp3","pobd.mp3","slox.mp3",
               "smile.mp3","sot.mp3","tertz.mp3","throat.mp3","vop.mp3","wine.mp3","worth.mp3","wung.mp3"]
-    },
+    }],
 
     ["Preload", "PreloaderCheck", {}],
 
