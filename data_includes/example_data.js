@@ -114,7 +114,7 @@ var writtenAdvice = function (page) {
         
         page: "<div id='page'></div>",
         clickableAnswers: false,
-        answers: {Continue: ["F", "Press F or J to continue."], Else: ["J", ""]},
+        answers: {Continue: ["~", "Press F or J to continue."], Else: ["~", ""]},
         sequence: [
             {this: "page"},
             function(x){
