@@ -2,9 +2,13 @@
 //
 // PRELOADER CONTROLLER
 //
-// last edit: 06-22-2016 by Jeremy
+// last edit: 04-20-2017 by Jeremy
 //
 // List of changes:
+//   - Added a 'PreloaderCheck' controller that waits 'timeout' ms for listOfFiles to be entirely loaded
+//
+//   - Fixed the 'undefined' error when no 'host' (gloal) variable was defined
+//
 //   - Now considers out-of-sequence items to establish the groups,
 //     checks if predicated only upon adding to items to load.
 //
@@ -19,7 +23,7 @@
 //     #            ID that does not enter in the sequence.
 //     ##!! OBSOLETE !!##
 //
-// Lets you to preload images and audio files at the beginning
+// Lets you preload images and audio files at the beginning
 // of the experiment and also when the controller is reached in
 // the thread of execution.
 //
@@ -185,7 +189,7 @@ define_ibex_controller({
         this.html = dget(this.options, "html", "Please wait, resources are loading");
         // The list of files to load
         this.files = this.options.files;
-        this.host = dget(this.options, "host", (typeof host == "string" ? host : ""));
+        this.host = dget(this.options, "host", (typeof host == undefined ? "" : host));
         // The alternate host in case the original file doesn't get loaded
         this.alternateHost = dget(this.options, "alternateHost", null);
         // How long do we have to wait before giving up loading?
@@ -276,4 +280,86 @@ define_ibex_controller({
     }
   }
 });
+      
+      
+      
+define_ibex_controller({
+  name: "PreloaderCheck",
 
+  jqueryWidget: {    
+    _init: function () {
+        this.cssPrefix = this.options._cssPrefix;
+        this.utils = this.options._utils;
+        this.finishedCallback = this.options._finishedCallback;
+        
+        this.html = dget(this.options, "html", "Please wait, resources are loading");
+        
+        // How long do we have to wait before giving up loading?
+        this.timeout = dget(this.options, "timeout", 15000);
+        // if (this.alternateHost) this.timeout = this.timeout / 2; // If we were to implement another loading with the alternate host
+        // Whether failure to load should be reported in the results file
+        this.report = dget(this.options, "report", true);
+
+        this.element.addClass(this.cssPrefix + "preloader");
+        this.element.append(htmlCodeToDOM(this.html));
+       
+        var t = this;
+       
+        // Clearing any prior timeout and interval
+        clearTimeout(t.timer);
+        clearInterval(t.checkLoaded);
+        
+        // Checking that all files have been loaded
+        var allFilesLoaded = function() {
+            for (file in listOfFiles) {
+              // If a file has not been loaded and is not yet listed as a failure, return FALSE
+              if (listOfFiles[file] != "loaded" && listOfFiles[file] != "failed") return false;
+            }
+            // All files have been loaded: TRUE
+            return true;
+        };
+        
+        // Launching the interval to check for all files being loaded
+        t.checkLoaded = setInterval(function() {
+            if (allFilesLoaded()) {
+                // If all files have been loaded, stop the interval
+                clearInterval(t.checkLoaded);
+                // If there was a timeout, also clear it
+                if (typeof t.timeout == "number") clearTimeout(t.timer);
+                // Pass to the next element in the thread
+                t.finishedCallback(null);
+            }}, 10);
+        
+        // If a timeout has been passed
+        if (typeof t.timeout == "number")
+          // Launch the timeout
+          t.timer = setTimeout(function () {
+                // We won't try to load anymore
+                clearInterval(t.checkLoaded);
+                var failedToLoad = [];
+                // Going through the files to signal the unloaded ones
+                for (file in listOfFiles) {
+                    if (listOfFiles[file] != "loaded") {
+                        // Add it to the list of the files that have not been loaded for this trial
+                        failedToLoad.push(t.files[file]);
+                    }
+                }
+                // Just signal it in the console for information
+                console.log("Timeout "+failedToLoad.join(","));
+                // Go to the next element in the thread after reporting the problem
+                if (this.report == true) t.finishedCallback([[["Timeout", "Files failed to load"],
+                                                              ["List of files", failedToLoad.join(",")]]]);
+                // Or without reporting
+                else t.finishedCallback(null);
+            }, t.timeout);
+    }
+  },
+
+  properties: {
+    obligatory: null,
+    countsForProgressBar: false,
+    htmlDescription: function (opts) {
+        return truncateHTML(htmlCodeToDOM(opts.html), 100);
+    }
+  }
+});

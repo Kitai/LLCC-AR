@@ -4,6 +4,8 @@
  document.getElementsByName("ISLL")[0].value = ISLL;
  document.getElementsByName("ISINS")[0].value = ISINS;
  document.getElementsByName("REPEATADVICE")[0].value = REPEATADVICE;
+ document.getElementsByName("ADVICEMODE")[0].value = writtenOrAudioAdvice;
+ document.getElementsByName("REPEATMODE")[0].value = writtenOrAudioReplay;
  document.getElementsByName("ITEMID")[0].value = ITEMID;
  
  userID = (Date.now()/Math.pow(10,13)).toString(36).substring(2,15) + Math.random().toString(36).substring(2,15);
@@ -60,6 +62,8 @@
     <input type="text" name="ISLL" value="test" style="display: none;" />
     <input type="text" name="ISINS" value="test" style="display: none;" />
     <input type="text" name="REPEATADVICE" value="test" style="display: none;" />
+    <input type="text" name="ADVICEMODE" value="test" style="display: none;" />
+    <input type="text" name="REPEATMODE" value="test" style="display: none;" />
     <input type="text" name="ITEMID" value="test" style="display: none;" />
     <input type="text" name="Duration" value="test" style="display: none;" />
   </td>

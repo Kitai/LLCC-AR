@@ -83,6 +83,15 @@
 
 </div>
   
+<input id="appearTime" name="appearTime" type="text" value="" style="display:none;"/>
+  
+<script>
+  var now = Date.now();
+  setTimeout(function(){
+    document.getElementById("appearTime").value = now;
+  }, 10);
+</script>
+  
 </body>
 
 </html>

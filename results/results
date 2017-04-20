@@ -472,3 +472,2392 @@
 1490214599,823fce42956632ade590acebb25b9cbe,Form,103,0,amt,NULL,actual,no
 1490214599,823fce42956632ade590acebb25b9cbe,Form,103,0,amt,NULL,english,no
 1490214599,823fce42956632ade590acebb25b9cbe,Form,103,0,amt,NULL,audio,speakers
+#
+# Results on Monday April 03 2017 21:13:41 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko) Version/8.0.3 Safari/600.3.18
+# Design number was non-random = 52
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,14,0,First16,NULL,pobd,J,1,962
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,10,0,First16,NULL,plowl,F,0,1095
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,15,0,First16,NULL,pakth,J,1,984
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,18,0,First16,NULL,smile,J,0,1272
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,25,0,First16,NULL,wine,F,1,1048
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,12,0,First16,NULL,slox,J,1,975
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,11,0,First16,NULL,fout,F,0,1043
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,22,0,First16,NULL,beat,J,0,823
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,20,0,First16,NULL,worth,F,1,1224
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,24,0,First16,NULL,loaf,J,0,1128
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,17,0,First16,NULL,foon,F,0,960
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,13,0,First16,NULL,lub,J,1,960
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,23,0,First16,NULL,nose,F,1,1040
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,21,0,First16,NULL,duck,J,0,936
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,19,0,First16,NULL,golf,F,1,1480
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,16,0,First16,NULL,tertz,J,1,5952
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,28,0,Second16,NULL,groud,F,0,3713
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,37,0,Second16,NULL,pad,F,1,20066
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,38,0,Second16,NULL,sot,F,1,1092
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,29,0,Second16,NULL,geel,J,1,1381
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,31,0,Second16,NULL,vop,F,0,1212
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,27,0,Second16,NULL,dit,J,1,982
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,40,0,Second16,NULL,throat,J,0,1237
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,39,0,Second16,NULL,face,F,1,1348
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,32,0,Second16,NULL,hilm,J,1,1909
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,35,0,Second16,NULL,beast,F,1,1141
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,41,0,Second16,NULL,camp,J,0,1083
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,30,0,Second16,NULL,petch,F,0,1181
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,36,0,Second16,NULL,path,F,1,2501
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,26,0,Second16,NULL,naint,J,1,1445
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,34,0,Second16,NULL,lump,J,0,1125
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,33,0,Second16,NULL,wung,F,0,1197
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Legend.
+#     Col. 9: Chosen answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,DynamicQuestion,3,0,ExpItemWritten,NULL,NULL,Else,NULL,11896
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,54,0,Third16,NULL,beat,F,1,1028
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,53,0,Third16,NULL,duck,F,1,1061
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,55,0,Third16,NULL,nose,F,1,1549
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,48,0,Third16,NULL,tertz,F,0,1233
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,49,0,Third16,NULL,foon,F,0,1374
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,57,0,Third16,NULL,wine,F,1,1206
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,50,0,Third16,NULL,smile,F,1,1394
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,44,0,Third16,NULL,slox,J,1,1420
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,45,0,Third16,NULL,lub,J,1,1209
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,42,0,Third16,NULL,plowl,J,1,1208
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,47,0,Third16,NULL,pakth,J,1,1128
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,52,0,Third16,NULL,worth,J,0,1177
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,56,0,Third16,NULL,loaf,J,0,1153
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,51,0,Third16,NULL,golf,J,0,1041
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,46,0,Third16,NULL,pobd,J,1,1192
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,43,0,Third16,NULL,fout,J,1,1039
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,67,0,Fourth16,NULL,beast,J,0,1120
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,64,0,Fourth16,NULL,hilm,J,1,1233
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,62,0,Fourth16,NULL,petch,J,1,1113
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,69,0,Fourth16,NULL,pad,J,0,1266
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,65,0,Fourth16,NULL,wung,J,1,1730
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,58,0,Fourth16,NULL,naint,J,1,1002
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,70,0,Fourth16,NULL,sot,J,0,1305
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,71,0,Fourth16,NULL,face,J,0,1922
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,61,0,Fourth16,NULL,geel,J,1,1113
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,73,0,Fourth16,NULL,camp,J,0,1569
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,63,0,Fourth16,NULL,vop,F,0,1409
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,60,0,Fourth16,NULL,groud,F,0,1217
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,68,0,Fourth16,NULL,path,F,1,1385
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,66,0,Fourth16,NULL,lump,F,1,1193
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,59,0,Fourth16,NULL,dit,F,0,1193
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,72,0,Fourth16,NULL,throat,F,1,1273
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Legend.
+#     Col. 9: Chosen answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,DynamicQuestion,5,0,DistItemWritten,NULL,NULL,Continue,NULL,9184
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,83,0,Fifth16,NULL,golf,F,1,817
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,77,0,Fifth16,NULL,lub,F,0,494
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,82,0,Fifth16,NULL,smile,F,1,187
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,76,0,Fifth16,NULL,slox,F,0,2
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,74,0,Fifth16,NULL,plowl,F,0,45
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,80,0,Fifth16,NULL,tertz,F,0,76
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,84,0,Fifth16,NULL,worth,F,1,222
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,78,0,Fifth16,NULL,pobd,F,0,2
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,87,0,Fifth16,NULL,nose,F,1,10
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,81,0,Fifth16,NULL,foon,F,0,80
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,89,0,Fifth16,NULL,wine,F,1,77
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,75,0,Fifth16,NULL,fout,F,0,78
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,85,0,Fifth16,NULL,duck,F,1,77
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,86,0,Fifth16,NULL,beat,F,1,78
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,79,0,Fifth16,NULL,pakth,F,0,78
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,88,0,Fifth16,NULL,loaf,F,1,77
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,93,0,Sixth16,NULL,geel,F,0,77
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,102,0,Sixth16,NULL,sot,F,1,78
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,104,0,Sixth16,NULL,throat,F,1,78
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,103,0,Sixth16,NULL,face,F,1,78
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,101,0,Sixth16,NULL,pad,F,1,78
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,96,0,Sixth16,NULL,hilm,F,0,78
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,94,0,Sixth16,NULL,petch,F,0,77
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,98,0,Sixth16,NULL,lump,F,1,78
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,100,0,Sixth16,NULL,path,F,1,77
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,91,0,Sixth16,NULL,dit,F,0,77
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,99,0,Sixth16,NULL,beast,F,1,77
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,95,0,Sixth16,NULL,vop,F,0,78
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,90,0,Sixth16,NULL,naint,F,0,78
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,92,0,Sixth16,NULL,groud,F,0,78
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,97,0,Sixth16,NULL,wung,F,0,77
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,LexDecision,105,0,Sixth16,NULL,camp,F,1,77
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,Questionnaire,8,0,FinalScreenWritten,NULL,slow,1
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,Questionnaire,8,0,FinalScreenWritten,NULL,attention,3
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,Questionnaire,8,0,FinalScreenWritten,NULL,boring,2
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,Questionnaire,8,0,FinalScreenWritten,NULL,answermind,4
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,Questionnaire,8,0,FinalScreenWritten,NULL,rest,1
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,Form,106,0,amt,NULL,otherdevice,
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,Form,106,0,amt,NULL,AMTID,5d9lh36zou4wxcj1bd8u7f
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,Form,106,0,amt,NULL,ISLL,false
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,Form,106,0,amt,NULL,ISINS,true
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,Form,106,0,amt,NULL,REPEATADVICE,true
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,Form,106,0,amt,NULL,ITEMID,1
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,Form,106,0,amt,NULL,Duration,194969
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,Form,106,0,amt,NULL,write_something,JeremyTesting
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,Form,106,0,amt,NULL,FandJ,yes
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,Form,106,0,amt,NULL,advice,no
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,Form,106,0,amt,NULL,nonce,no
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,Form,106,0,amt,NULL,actual,no
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,Form,106,0,amt,NULL,english,no
+1491254021,3fd83d93a8aceb1ce1d1fc8a684a3603,Form,106,0,amt,NULL,audio,headphones
+#
+# Results on Tuesday April 11 2017 23:15:33 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+# Design number was non-random = 53
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,12,0,First16,NULL,slox,J,1,3715
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,10,0,First16,NULL,plowl,J,1,977
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,24,0,First16,NULL,loaf,J,0,724
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,20,0,First16,NULL,worth,J,0,483
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,17,0,First16,NULL,foon,J,1,485
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,19,0,First16,NULL,golf,J,0,14
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,21,0,First16,NULL,duck,J,0,12
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,22,0,First16,NULL,beat,J,0,27
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,13,0,First16,NULL,lub,J,1,29
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,11,0,First16,NULL,fout,J,1,27
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,18,0,First16,NULL,smile,J,0,28
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,14,0,First16,NULL,pobd,J,1,28
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,25,0,First16,NULL,wine,J,0,29
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,23,0,First16,NULL,nose,J,0,30
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,15,0,First16,NULL,pakth,J,1,625
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,16,0,First16,NULL,tertz,J,1,466
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,38,0,Second16,NULL,sot,J,0,248
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,27,0,Second16,NULL,dit,J,1,438
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,41,0,Second16,NULL,camp,J,0,2326
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,37,0,Second16,NULL,pad,J,0,1052
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,36,0,Second16,NULL,path,J,0,836
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,26,0,Second16,NULL,naint,J,1,1315
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,32,0,Second16,NULL,hilm,J,1,1091
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,28,0,Second16,NULL,groud,F,0,622
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,30,0,Second16,NULL,petch,J,1,489
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,29,0,Second16,NULL,geel,F,0,375
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,33,0,Second16,NULL,wung,J,1,635
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,35,0,Second16,NULL,beast,F,1,887
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,39,0,Second16,NULL,face,J,0,763
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,40,0,Second16,NULL,throat,F,1,652
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,31,0,Second16,NULL,vop,J,1,529
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,34,0,Second16,NULL,lump,F,1,767
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Legend.
+#     Col. 9: Chosen answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,3,0,ExpItemWritten,NULL,NULL,Else,NULL,9957
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,48,0,Third16,NULL,tertz,J,1,2135
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,55,0,Third16,NULL,nose,J,0,913
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,51,0,Third16,NULL,golf,J,0,1348
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,54,0,Third16,NULL,beat,F,1,752
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,46,0,Third16,NULL,pobd,J,1,594
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,52,0,Third16,NULL,worth,F,1,514
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,47,0,Third16,NULL,pakth,J,1,595
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,53,0,Third16,NULL,duck,F,1,518
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,45,0,Third16,NULL,lub,J,1,651
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,49,0,Third16,NULL,foon,F,0,765
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,42,0,Third16,NULL,plowl,J,1,676
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,44,0,Third16,NULL,slox,F,0,842
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,50,0,Third16,NULL,smile,J,0,872
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,56,0,Third16,NULL,loaf,F,1,602
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,57,0,Third16,NULL,wine,J,0,582
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,43,0,Third16,NULL,fout,J,1,962
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,59,0,Fourth16,NULL,dit,F,0,642
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,63,0,Fourth16,NULL,vop,F,0,792
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,72,0,Fourth16,NULL,throat,F,1,671
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,68,0,Fourth16,NULL,path,F,1,703
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,66,0,Fourth16,NULL,lump,J,0,572
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,61,0,Fourth16,NULL,geel,F,0,625
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,73,0,Fourth16,NULL,camp,J,0,628
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,65,0,Fourth16,NULL,wung,F,0,594
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,70,0,Fourth16,NULL,sot,J,0,705
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,67,0,Fourth16,NULL,beast,F,1,521
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,62,0,Fourth16,NULL,petch,J,1,645
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,71,0,Fourth16,NULL,face,F,1,653
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,64,0,Fourth16,NULL,hilm,J,1,696
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,69,0,Fourth16,NULL,pad,F,1,485
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,58,0,Fourth16,NULL,naint,J,1,614
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,60,0,Fourth16,NULL,groud,F,0,562
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Legend.
+#     Col. 9: Chosen answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,5,0,DistItemWritten,NULL,NULL,Else,NULL,5569
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,82,0,Fifth16,NULL,smile,F,1,923
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,76,0,Fifth16,NULL,slox,J,1,765
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,74,0,Fifth16,NULL,plowl,F,0,732
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,83,0,Fifth16,NULL,golf,J,0,728
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,88,0,Fifth16,NULL,loaf,F,1,680
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,87,0,Fifth16,NULL,nose,J,0,790
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,79,0,Fifth16,NULL,pakth,F,0,661
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,75,0,Fifth16,NULL,fout,J,1,775
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,78,0,Fifth16,NULL,pobd,F,0,664
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,81,0,Fifth16,NULL,foon,J,1,756
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,77,0,Fifth16,NULL,lub,F,0,635
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,84,0,Fifth16,NULL,worth,J,0,600
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,85,0,Fifth16,NULL,duck,J,0,699
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,86,0,Fifth16,NULL,beat,J,0,626
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,89,0,Fifth16,NULL,wine,J,0,491
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,80,0,Fifth16,NULL,tertz,J,1,650
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,104,0,Sixth16,NULL,throat,F,1,664
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,94,0,Sixth16,NULL,petch,F,0,567
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,105,0,Sixth16,NULL,camp,F,1,519
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,102,0,Sixth16,NULL,sot,F,1,554
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,92,0,Sixth16,NULL,groud,J,1,391
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,93,0,Sixth16,NULL,geel,J,1,521
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,98,0,Sixth16,NULL,lump,F,1,552
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,96,0,Sixth16,NULL,hilm,F,0,723
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,95,0,Sixth16,NULL,vop,F,0,633
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,101,0,Sixth16,NULL,pad,F,1,661
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,90,0,Sixth16,NULL,naint,F,0,489
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,91,0,Sixth16,NULL,dit,J,1,549
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,103,0,Sixth16,NULL,face,J,0,713
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,99,0,Sixth16,NULL,beast,F,1,616
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,100,0,Sixth16,NULL,path,J,0,630
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,97,0,Sixth16,NULL,wung,F,0,678
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,Questionnaire,8,0,FinalScreenWritten,NULL,slow,3
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,Questionnaire,8,0,FinalScreenWritten,NULL,attention,3
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,Questionnaire,8,0,FinalScreenWritten,NULL,boring,3
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,Questionnaire,8,0,FinalScreenWritten,NULL,answermind,3
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,Questionnaire,8,0,FinalScreenWritten,NULL,rest,3
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,otherdevice,
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,AMTID,5dcuqd2fev9qrghvfvxw4i
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,ISLL,false
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,ISINS,true
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,REPEATADVICE,true
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,ITEMID,1
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,Duration,189094
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,write_something,
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,FandJ,yes
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,advice,no
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,nonce,no
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,actual,no
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,english,yes
+1491952534,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,audio,speakers
+#
+# Results on Tuesday April 11 2017 23:23:44 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+# Design number was non-random = 54
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,13,0,First16,NULL,lub,J,1,805
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,11,0,First16,NULL,fout,J,1,742
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,25,0,First16,NULL,wine,J,0,775
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,22,0,First16,NULL,beat,J,0,644
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,15,0,First16,NULL,pakth,F,0,691
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,10,0,First16,NULL,plowl,F,0,708
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,16,0,First16,NULL,tertz,J,1,720
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,12,0,First16,NULL,slox,F,0,734
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,24,0,First16,NULL,loaf,J,0,660
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,21,0,First16,NULL,duck,F,1,604
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,14,0,First16,NULL,pobd,J,1,713
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,19,0,First16,NULL,golf,F,1,693
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,18,0,First16,NULL,smile,J,0,848
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,20,0,First16,NULL,worth,F,1,636
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,23,0,First16,NULL,nose,J,0,772
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,17,0,First16,NULL,foon,F,0,968
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,37,0,Second16,NULL,pad,J,0,765
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,39,0,Second16,NULL,face,F,1,788
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,41,0,Second16,NULL,camp,J,0,741
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,32,0,Second16,NULL,hilm,F,0,933
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,34,0,Second16,NULL,lump,J,0,714
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,31,0,Second16,NULL,vop,F,0,710
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,30,0,Second16,NULL,petch,J,1,731
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,27,0,Second16,NULL,dit,F,0,613
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,26,0,Second16,NULL,naint,J,1,693
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,29,0,Second16,NULL,geel,F,0,717
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,28,0,Second16,NULL,groud,J,1,710
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,35,0,Second16,NULL,beast,F,1,645
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,40,0,Second16,NULL,throat,J,0,865
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,33,0,Second16,NULL,wung,F,0,712
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,38,0,Second16,NULL,sot,J,0,788
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,36,0,Second16,NULL,path,F,1,725
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Legend.
+#     Col. 9: Chosen answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,3,0,ExpItemWritten,NULL,NULL,Else,NULL,4881
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,45,0,Third16,NULL,lub,F,0,901
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,54,0,Third16,NULL,beat,J,0,723
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,43,0,Third16,NULL,fout,F,0,877
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,42,0,Third16,NULL,plowl,J,1,901
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,53,0,Third16,NULL,duck,F,1,793
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,46,0,Third16,NULL,pobd,J,1,831
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,55,0,Third16,NULL,nose,F,1,796
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,47,0,Third16,NULL,pakth,J,1,806
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,50,0,Third16,NULL,smile,F,1,875
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,51,0,Third16,NULL,golf,J,0,693
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,57,0,Third16,NULL,wine,F,1,785
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,48,0,Third16,NULL,tertz,J,1,839
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,52,0,Third16,NULL,worth,F,1,758
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,56,0,Third16,NULL,loaf,J,0,791
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,49,0,Third16,NULL,foon,F,0,895
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,44,0,Third16,NULL,slox,J,1,796
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,62,0,Fourth16,NULL,petch,F,0,685
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,68,0,Fourth16,NULL,path,J,0,730
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,73,0,Fourth16,NULL,camp,F,1,658
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,71,0,Fourth16,NULL,face,J,0,788
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,60,0,Fourth16,NULL,groud,F,0,616
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,65,0,Fourth16,NULL,wung,J,1,788
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,67,0,Fourth16,NULL,beast,F,1,630
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,59,0,Fourth16,NULL,dit,J,1,707
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,58,0,Fourth16,NULL,naint,F,0,721
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,61,0,Fourth16,NULL,geel,J,1,732
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,66,0,Fourth16,NULL,lump,F,1,627
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,70,0,Fourth16,NULL,sot,J,0,828
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,69,0,Fourth16,NULL,pad,F,1,733
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,63,0,Fourth16,NULL,vop,J,1,757
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,72,0,Fourth16,NULL,throat,F,1,742
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,64,0,Fourth16,NULL,hilm,F,0,806
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Legend.
+#     Col. 9: Chosen answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,5,0,DistItemWritten,NULL,NULL,Else,NULL,4933
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,86,0,Fifth16,NULL,beat,F,1,646
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,76,0,Fifth16,NULL,slox,F,0,746
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,75,0,Fifth16,NULL,fout,J,1,845
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,83,0,Fifth16,NULL,golf,F,1,642
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,79,0,Fifth16,NULL,pakth,J,1,738
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,74,0,Fifth16,NULL,plowl,F,0,721
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,82,0,Fifth16,NULL,smile,J,0,926
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,89,0,Fifth16,NULL,wine,F,1,726
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,77,0,Fifth16,NULL,lub,J,1,756
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,87,0,Fifth16,NULL,nose,F,1,726
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,78,0,Fifth16,NULL,pobd,J,1,766
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,84,0,Fifth16,NULL,worth,F,1,665
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,80,0,Fifth16,NULL,tertz,J,1,855
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,81,0,Fifth16,NULL,foon,F,0,876
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,88,0,Fifth16,NULL,loaf,J,0,735
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,85,0,Fifth16,NULL,duck,F,1,645
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,105,0,Sixth16,NULL,camp,J,0,760
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,102,0,Sixth16,NULL,sot,F,1,777
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,90,0,Sixth16,NULL,naint,J,1,757
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,93,0,Sixth16,NULL,geel,F,0,723
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,103,0,Sixth16,NULL,face,J,0,810
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,104,0,Sixth16,NULL,throat,F,1,792
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,96,0,Sixth16,NULL,hilm,J,1,903
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,97,0,Sixth16,NULL,wung,F,0,717
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,101,0,Sixth16,NULL,pad,J,0,790
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,98,0,Sixth16,NULL,lump,F,1,640
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,99,0,Sixth16,NULL,beast,J,0,642
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,92,0,Sixth16,NULL,groud,F,0,693
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,94,0,Sixth16,NULL,petch,J,1,645
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,95,0,Sixth16,NULL,vop,F,0,631
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,100,0,Sixth16,NULL,path,J,0,631
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,91,0,Sixth16,NULL,dit,F,0,473
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Event.
+# 9. ControlID.
+# 10. Timecode.
+# 11. Time.
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,9,0,FinalScreenAudio,NULL,Play audio,aud1,0,13045
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,9,0,FinalScreenAudio,NULL,Pause audio,aud1,9.221224,22270
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,9,0,FinalScreenAudio,NULL,Playback Ended,aud1,9.221224,22272
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,9,0,FinalScreenAudio,NULL,Play audio,aud2,0,24010
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,9,0,FinalScreenAudio,NULL,Pause audio,aud2,5.746939,29768
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,9,0,FinalScreenAudio,NULL,Playback Ended,aud2,5.746939,29769
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,9,0,FinalScreenAudio,NULL,Click on radio,slow3,None,33761
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,9,0,FinalScreenAudio,NULL,Click on radio,attention3,None,35593
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,9,0,FinalScreenAudio,NULL,Click on radio,boring3,None,37265
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,9,0,FinalScreenAudio,NULL,Click on radio,answermind3,None,41336
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,9,0,FinalScreenAudio,NULL,Click on radio,rest3,None,42656
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,9,0,FinalScreenAudio,NULL,slow,3
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,9,0,FinalScreenAudio,NULL,attention,3
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,9,0,FinalScreenAudio,NULL,boring,3
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,9,0,FinalScreenAudio,NULL,answermind,3
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,9,0,FinalScreenAudio,NULL,rest,3
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,otherdevice,
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,AMTID,5dcutf1n70x4rm78p6dx8t
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,ISLL,false
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,ISINS,true
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,REPEATADVICE,true
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,ITEMID,1
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,Duration,182961
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,write_something,
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,FandJ,yes
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,advice,no
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,nonce,no
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,actual,no
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,english,yes
+1491953025,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,audio,speakers
+#
+# Results on Tuesday April 11 2017 23:37:07 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+# Design number was non-random = 55
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,15,0,First16,NULL,pakth,J,1,900
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,11,0,First16,NULL,fout,J,1,1123
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,19,0,First16,NULL,golf,J,0,1053
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,23,0,First16,NULL,nose,J,0,1016
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,12,0,First16,NULL,slox,J,1,1142
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,25,0,First16,NULL,wine,J,0,1042
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,16,0,First16,NULL,tertz,J,1,1116
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,20,0,First16,NULL,worth,J,0,1112
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,17,0,First16,NULL,foon,J,1,1276
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,13,0,First16,NULL,lub,J,1,5007
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,22,0,First16,NULL,beat,J,0,926
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,10,0,First16,NULL,plowl,J,1,1093
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,21,0,First16,NULL,duck,J,0,983
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,24,0,First16,NULL,loaf,J,0,1110
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,18,0,First16,NULL,smile,J,0,1335
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,14,0,First16,NULL,pobd,J,1,1020
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,32,0,Second16,NULL,hilm,J,1,1045
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,33,0,Second16,NULL,wung,J,1,995
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,37,0,Second16,NULL,pad,J,0,1016
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,31,0,Second16,NULL,vop,J,1,989
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,26,0,Second16,NULL,naint,J,1,918
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,39,0,Second16,NULL,face,J,0,1101
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,35,0,Second16,NULL,beast,J,0,978
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,36,0,Second16,NULL,path,J,0,1128
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,27,0,Second16,NULL,dit,J,1,1040
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,28,0,Second16,NULL,groud,J,1,1257
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,34,0,Second16,NULL,lump,J,0,1084
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,30,0,Second16,NULL,petch,J,1,1039
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,41,0,Second16,NULL,camp,J,0,1137
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,29,0,Second16,NULL,geel,J,1,916
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,38,0,Second16,NULL,sot,J,0,790
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,40,0,Second16,NULL,throat,J,0,706
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,49,0,Third16,NULL,foon,J,1,983
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,50,0,Third16,NULL,smile,J,0,944
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,42,0,Third16,NULL,plowl,J,1,855
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,45,0,Third16,NULL,lub,J,1,930
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,54,0,Third16,NULL,beat,J,0,820
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,48,0,Third16,NULL,tertz,J,1,835
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,51,0,Third16,NULL,golf,J,0,858
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,44,0,Third16,NULL,slox,J,1,892
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,55,0,Third16,NULL,nose,J,0,790
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,47,0,Third16,NULL,pakth,J,1,1118
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,56,0,Third16,NULL,loaf,F,1,690
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,53,0,Third16,NULL,duck,J,0,681
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,52,0,Third16,NULL,worth,F,1,547
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,43,0,Third16,NULL,fout,J,1,733
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,57,0,Third16,NULL,wine,F,1,640
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,46,0,Third16,NULL,pobd,J,1,501
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,60,0,Fourth16,NULL,groud,J,1,489
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,61,0,Fourth16,NULL,geel,J,1,23
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,72,0,Fourth16,NULL,throat,J,0,23
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,62,0,Fourth16,NULL,petch,J,1,28
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,63,0,Fourth16,NULL,vop,J,1,26
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,67,0,Fourth16,NULL,beast,J,0,28
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,70,0,Fourth16,NULL,sot,J,0,29
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,68,0,Fourth16,NULL,path,J,0,29
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,59,0,Fourth16,NULL,dit,J,1,26
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,58,0,Fourth16,NULL,naint,J,1,29
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,65,0,Fourth16,NULL,wung,J,1,29
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,71,0,Fourth16,NULL,face,J,0,30
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,64,0,Fourth16,NULL,hilm,J,1,28
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,69,0,Fourth16,NULL,pad,F,1,588
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,66,0,Fourth16,NULL,lump,J,0,597
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,73,0,Fourth16,NULL,camp,F,1,709
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,86,0,Fifth16,NULL,beat,F,1,926
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,78,0,Fifth16,NULL,pobd,J,1,783
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,85,0,Fifth16,NULL,duck,F,1,533
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,81,0,Fifth16,NULL,foon,J,1,751
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,83,0,Fifth16,NULL,golf,J,0,547
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,87,0,Fifth16,NULL,nose,F,1,501
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,88,0,Fifth16,NULL,loaf,J,0,517
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,76,0,Fifth16,NULL,slox,F,0,813
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,75,0,Fifth16,NULL,fout,F,0,485
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,82,0,Fifth16,NULL,smile,F,1,18
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,89,0,Fifth16,NULL,wine,F,1,22
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,79,0,Fifth16,NULL,pakth,F,0,28
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,84,0,Fifth16,NULL,worth,F,1,27
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,77,0,Fifth16,NULL,lub,F,0,29
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,80,0,Fifth16,NULL,tertz,F,0,27
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,74,0,Fifth16,NULL,plowl,F,0,29
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,102,0,Sixth16,NULL,sot,F,1,30
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,94,0,Sixth16,NULL,petch,F,0,29
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,98,0,Sixth16,NULL,lump,F,1,29
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,90,0,Sixth16,NULL,naint,F,0,27
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,95,0,Sixth16,NULL,vop,F,0,28
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,101,0,Sixth16,NULL,pad,F,1,28
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,103,0,Sixth16,NULL,face,F,1,29
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,105,0,Sixth16,NULL,camp,F,1,29
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,99,0,Sixth16,NULL,beast,J,0,514
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,97,0,Sixth16,NULL,wung,J,1,659
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,104,0,Sixth16,NULL,throat,J,0,768
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,91,0,Sixth16,NULL,dit,F,0,535
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,96,0,Sixth16,NULL,hilm,J,1,642
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,100,0,Sixth16,NULL,path,F,1,528
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,92,0,Sixth16,NULL,groud,J,1,547
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,93,0,Sixth16,NULL,geel,F,0,550
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Event.
+# 9. ControlID.
+# 10. Timecode.
+# 11. Time.
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,9,0,FinalScreenAudio,NULL,Play audio,aud1,0,9336
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,9,0,FinalScreenAudio,NULL,Pause audio,aud1,9.221224,18599
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,9,0,FinalScreenAudio,NULL,Playback Ended,aud1,9.221224,18600
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,9,0,FinalScreenAudio,NULL,Play audio,aud2,0,20318
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,9,0,FinalScreenAudio,NULL,Pause audio,aud2,5.746939,26076
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,9,0,FinalScreenAudio,NULL,Playback Ended,aud2,5.746939,26077
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,9,0,FinalScreenAudio,NULL,Click on radio,slow3,None,34125
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,9,0,FinalScreenAudio,NULL,Click on radio,attention3,None,40028
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,9,0,FinalScreenAudio,NULL,Click on radio,boring3,None,41180
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,9,0,FinalScreenAudio,NULL,Click on radio,answermind3,None,42460
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,9,0,FinalScreenAudio,NULL,Click on radio,rest3,None,44052
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,9,0,FinalScreenAudio,NULL,slow,3
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,9,0,FinalScreenAudio,NULL,attention,3
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,9,0,FinalScreenAudio,NULL,boring,3
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,9,0,FinalScreenAudio,NULL,answermind,3
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,9,0,FinalScreenAudio,NULL,rest,3
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,otherdevice,
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,AMTID,5dcuyafu4j9u5fnm4vgi9
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,ISLL,false
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,ISINS,true
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,REPEATADVICE,true
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,ITEMID,1
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,Duration,207132
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,write_something,
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,FandJ,yes
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,advice,no
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,nonce,no
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,actual,no
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,english,yes
+1491953828,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,audio,speakers
+#
+# Results on Tuesday April 11 2017 23:46:41 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+# Design number was non-random = 56
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,20,0,First16,NULL,worth,J,0,959
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,22,0,First16,NULL,beat,F,1,879
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,14,0,First16,NULL,pobd,J,1,823
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,19,0,First16,NULL,golf,F,1,759
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,10,0,First16,NULL,plowl,J,1,691
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,24,0,First16,NULL,loaf,F,1,503
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,21,0,First16,NULL,duck,J,0,513
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,15,0,First16,NULL,pakth,F,0,508
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,25,0,First16,NULL,wine,J,0,527
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,18,0,First16,NULL,smile,J,0,479
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,17,0,First16,NULL,foon,J,1,17
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,16,0,First16,NULL,tertz,J,1,24
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,12,0,First16,NULL,slox,J,1,29
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,11,0,First16,NULL,fout,J,1,29
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,23,0,First16,NULL,nose,J,0,30
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,13,0,First16,NULL,lub,J,1,27
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,32,0,Second16,NULL,hilm,J,1,30
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,40,0,Second16,NULL,throat,J,0,29
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,30,0,Second16,NULL,petch,J,1,28
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,31,0,Second16,NULL,vop,J,1,30
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,27,0,Second16,NULL,dit,F,0,440
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,38,0,Second16,NULL,sot,F,1,308
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,37,0,Second16,NULL,pad,F,1,900
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,36,0,Second16,NULL,path,F,1,521
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,34,0,Second16,NULL,lump,F,1,463
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,26,0,Second16,NULL,naint,F,0,512
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,41,0,Second16,NULL,camp,J,0,483
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,33,0,Second16,NULL,wung,F,0,465
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,28,0,Second16,NULL,groud,J,1,486
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,35,0,Second16,NULL,beast,F,1,445
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,29,0,Second16,NULL,geel,J,1,446
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,39,0,Second16,NULL,face,F,1,448
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,54,0,Third16,NULL,beat,F,1,570
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,43,0,Third16,NULL,fout,J,1,861
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,55,0,Third16,NULL,nose,F,1,549
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,46,0,Third16,NULL,pobd,J,1,569
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,51,0,Third16,NULL,golf,F,1,438
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,44,0,Third16,NULL,slox,J,1,648
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,52,0,Third16,NULL,worth,F,1,563
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,50,0,Third16,NULL,smile,J,0,872
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,53,0,Third16,NULL,duck,J,0,486
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,48,0,Third16,NULL,tertz,J,1,13
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,49,0,Third16,NULL,foon,J,1,24
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,57,0,Third16,NULL,wine,J,0,28
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,42,0,Third16,NULL,plowl,J,1,28
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,45,0,Third16,NULL,lub,J,1,27
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,47,0,Third16,NULL,pakth,J,1,26
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,56,0,Third16,NULL,loaf,J,0,28
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,69,0,Fourth16,NULL,pad,J,0,28
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,71,0,Fourth16,NULL,face,J,0,30
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,61,0,Fourth16,NULL,geel,J,1,29
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,68,0,Fourth16,NULL,path,J,0,29
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,72,0,Fourth16,NULL,throat,J,0,27
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,67,0,Fourth16,NULL,beast,J,0,30
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,65,0,Fourth16,NULL,wung,J,1,28
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,70,0,Fourth16,NULL,sot,J,0,27
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,63,0,Fourth16,NULL,vop,F,0,316
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,59,0,Fourth16,NULL,dit,F,0,597
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,66,0,Fourth16,NULL,lump,J,0,554
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,73,0,Fourth16,NULL,camp,F,1,622
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,64,0,Fourth16,NULL,hilm,J,1,822
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,58,0,Fourth16,NULL,naint,F,0,456
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,60,0,Fourth16,NULL,groud,J,1,821
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,62,0,Fourth16,NULL,petch,F,0,604
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,88,0,Fifth16,NULL,loaf,F,1,664
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,77,0,Fifth16,NULL,lub,F,0,571
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,79,0,Fifth16,NULL,pakth,J,1,474
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,84,0,Fifth16,NULL,worth,J,0,484
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,89,0,Fifth16,NULL,wine,J,0,23
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,81,0,Fifth16,NULL,foon,J,1,23
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,78,0,Fifth16,NULL,pobd,J,1,28
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,74,0,Fifth16,NULL,plowl,J,1,29
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,75,0,Fifth16,NULL,fout,J,1,30
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,87,0,Fifth16,NULL,nose,J,0,29
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,85,0,Fifth16,NULL,duck,J,0,29
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,76,0,Fifth16,NULL,slox,J,1,29
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,83,0,Fifth16,NULL,golf,J,0,29
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,80,0,Fifth16,NULL,tertz,J,1,27
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,82,0,Fifth16,NULL,smile,J,0,29
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,86,0,Fifth16,NULL,beat,J,0,28
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,92,0,Sixth16,NULL,groud,J,1,28
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,101,0,Sixth16,NULL,pad,J,0,29
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,98,0,Sixth16,NULL,lump,J,0,29
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,97,0,Sixth16,NULL,wung,J,1,29
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,104,0,Sixth16,NULL,throat,J,0,31
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,100,0,Sixth16,NULL,path,J,0,29
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,99,0,Sixth16,NULL,beast,F,1,250
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,94,0,Sixth16,NULL,petch,J,1,410
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,105,0,Sixth16,NULL,camp,F,1,419
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,95,0,Sixth16,NULL,vop,J,1,530
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,102,0,Sixth16,NULL,sot,F,1,466
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,93,0,Sixth16,NULL,geel,J,1,375
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,91,0,Sixth16,NULL,dit,F,0,396
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,103,0,Sixth16,NULL,face,J,0,422
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,90,0,Sixth16,NULL,naint,F,0,436
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,96,0,Sixth16,NULL,hilm,J,1,464
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,Questionnaire,8,0,FinalScreenWritten,NULL,slow,3
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,Questionnaire,8,0,FinalScreenWritten,NULL,attention,3
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,Questionnaire,8,0,FinalScreenWritten,NULL,boring,3
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,Questionnaire,8,0,FinalScreenWritten,NULL,answermind,3
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,Questionnaire,8,0,FinalScreenWritten,NULL,rest,3
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,otherdevice,
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,AMTID,5dcv1m5b52skantvrqxtcp
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,ISLL,false
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,ISINS,true
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,REPEATADVICE,true
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,ITEMID,1
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,Duration,114343
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,write_something,
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,FandJ,yes
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,advice,no
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,nonce,no
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,actual,no
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,english,yes
+1491954401,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,audio,speakers
+#
+# Results on Tuesday April 11 2017 23:52:45 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+# Design number was non-random = 57
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,20,0,First16,NULL,worth,J,0,859
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,18,0,First16,NULL,smile,J,0,779
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,10,0,First16,NULL,plowl,J,1,979
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,25,0,First16,NULL,wine,J,0,1151
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,11,0,First16,NULL,fout,J,1,949
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,14,0,First16,NULL,pobd,J,1,1397
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,22,0,First16,NULL,beat,J,0,973
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,15,0,First16,NULL,pakth,J,1,2056
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,24,0,First16,NULL,loaf,J,0,1827
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,23,0,First16,NULL,nose,J,0,1444
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,12,0,First16,NULL,slox,J,1,1510
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,17,0,First16,NULL,foon,J,1,1392
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,19,0,First16,NULL,golf,J,0,1005
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,16,0,First16,NULL,tertz,J,1,1078
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,13,0,First16,NULL,lub,J,1,1177
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,21,0,First16,NULL,duck,J,0,1078
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,28,0,Second16,NULL,groud,J,1,1064
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,41,0,Second16,NULL,camp,J,0,977
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,27,0,Second16,NULL,dit,J,1,1085
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,34,0,Second16,NULL,lump,J,0,1388
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,36,0,Second16,NULL,path,J,0,967
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,29,0,Second16,NULL,geel,J,1,686
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,35,0,Second16,NULL,beast,J,0,794
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,37,0,Second16,NULL,pad,J,0,892
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,39,0,Second16,NULL,face,J,0,1029
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,30,0,Second16,NULL,petch,J,1,1573
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,33,0,Second16,NULL,wung,J,1,2184
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,26,0,Second16,NULL,naint,J,1,818
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,40,0,Second16,NULL,throat,J,0,605
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,38,0,Second16,NULL,sot,J,0,360
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,32,0,Second16,NULL,hilm,J,1,627
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,31,0,Second16,NULL,vop,J,1,485
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,55,0,Third16,NULL,nose,J,0,870
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,56,0,Third16,NULL,loaf,J,0,803
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,51,0,Third16,NULL,golf,J,0,808
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,57,0,Third16,NULL,wine,J,0,726
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,49,0,Third16,NULL,foon,J,1,922
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,45,0,Third16,NULL,lub,J,1,708
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,44,0,Third16,NULL,slox,J,1,838
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,54,0,Third16,NULL,beat,J,0,865
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,46,0,Third16,NULL,pobd,J,1,895
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,53,0,Third16,NULL,duck,J,0,900
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,42,0,Third16,NULL,plowl,J,1,709
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,47,0,Third16,NULL,pakth,J,1,1070
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,50,0,Third16,NULL,smile,J,0,2117
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,48,0,Third16,NULL,tertz,J,1,1387
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,43,0,Third16,NULL,fout,J,1,789
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,52,0,Third16,NULL,worth,J,0,793
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,71,0,Fourth16,NULL,face,J,0,721
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,65,0,Fourth16,NULL,wung,J,1,828
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,68,0,Fourth16,NULL,path,J,0,797
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,60,0,Fourth16,NULL,groud,J,1,751
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,63,0,Fourth16,NULL,vop,J,1,906
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,58,0,Fourth16,NULL,naint,J,1,1192
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,66,0,Fourth16,NULL,lump,J,0,1042
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,64,0,Fourth16,NULL,hilm,J,1,1407
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,70,0,Fourth16,NULL,sot,J,0,1146
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,72,0,Fourth16,NULL,throat,J,0,1056
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,61,0,Fourth16,NULL,geel,J,1,1095
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,59,0,Fourth16,NULL,dit,J,1,1488
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,73,0,Fourth16,NULL,camp,J,0,1489
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,69,0,Fourth16,NULL,pad,J,0,962
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,62,0,Fourth16,NULL,petch,J,1,1048
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,67,0,Fourth16,NULL,beast,J,0,947
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,76,0,Fifth16,NULL,slox,J,1,873
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,79,0,Fifth16,NULL,pakth,J,1,818
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,88,0,Fifth16,NULL,loaf,J,0,1708
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,87,0,Fifth16,NULL,nose,J,0,1385
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,89,0,Fifth16,NULL,wine,J,0,1181
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,82,0,Fifth16,NULL,smile,J,0,1217
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,84,0,Fifth16,NULL,worth,J,0,1087
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,74,0,Fifth16,NULL,plowl,J,1,1280
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,78,0,Fifth16,NULL,pobd,J,1,2306
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,86,0,Fifth16,NULL,beat,J,0,1161
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,85,0,Fifth16,NULL,duck,J,0,1055
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,80,0,Fifth16,NULL,tertz,J,1,1041
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,83,0,Fifth16,NULL,golf,J,0,943
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,81,0,Fifth16,NULL,foon,J,1,1213
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,77,0,Fifth16,NULL,lub,J,1,1199
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,75,0,Fifth16,NULL,fout,J,1,1364
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,95,0,Sixth16,NULL,vop,J,1,1056
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,97,0,Sixth16,NULL,wung,J,1,1088
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,93,0,Sixth16,NULL,geel,J,1,877
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,103,0,Sixth16,NULL,face,J,0,1098
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,105,0,Sixth16,NULL,camp,J,0,623
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,96,0,Sixth16,NULL,hilm,J,1,688
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,102,0,Sixth16,NULL,sot,J,0,611
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,99,0,Sixth16,NULL,beast,J,0,510
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,101,0,Sixth16,NULL,pad,J,0,586
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,90,0,Sixth16,NULL,naint,J,1,554
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,91,0,Sixth16,NULL,dit,J,1,549
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,100,0,Sixth16,NULL,path,J,0,598
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,98,0,Sixth16,NULL,lump,J,0,518
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,92,0,Sixth16,NULL,groud,J,1,467
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,104,0,Sixth16,NULL,throat,J,0,438
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,94,0,Sixth16,NULL,petch,J,1,422
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,Questionnaire,8,0,FinalScreenWritten,NULL,slow,3
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,Questionnaire,8,0,FinalScreenWritten,NULL,attention,3
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,Questionnaire,8,0,FinalScreenWritten,NULL,boring,3
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,Questionnaire,8,0,FinalScreenWritten,NULL,answermind,3
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,Questionnaire,8,0,FinalScreenWritten,NULL,rest,3
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,otherdevice,
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,AMTID,5dcv3y9uuvlj94jd731sg
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,ISLL,false
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,ISINS,true
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,REPEATADVICE,false
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,ITEMID,1
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,Duration,188944
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,write_something,
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,FandJ,yes
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,advice,no
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,nonce,no
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,actual,no
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,english,yes
+1491954765,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,audio,speakers
+#
+# Results on Tuesday April 11 2017 23:59:04 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+# Design number was non-random = 58
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,18,0,First16,NULL,smile,F,1,884
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,21,0,First16,NULL,duck,J,0,566
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,20,0,First16,NULL,worth,F,1,579
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,24,0,First16,NULL,loaf,J,0,609
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,15,0,First16,NULL,pakth,F,0,675
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,25,0,First16,NULL,wine,J,0,457
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,22,0,First16,NULL,beat,J,0,475
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,16,0,First16,NULL,tertz,J,1,22
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,12,0,First16,NULL,slox,J,1,26
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,23,0,First16,NULL,nose,J,0,28
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,14,0,First16,NULL,pobd,J,1,27
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,11,0,First16,NULL,fout,J,1,26
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,10,0,First16,NULL,plowl,J,1,29
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,13,0,First16,NULL,lub,J,1,29
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,17,0,First16,NULL,foon,J,1,29
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,19,0,First16,NULL,golf,J,0,29
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,39,0,Second16,NULL,face,J,0,29
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,31,0,Second16,NULL,vop,J,1,30
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,30,0,Second16,NULL,petch,J,1,28
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,40,0,Second16,NULL,throat,J,0,28
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,28,0,Second16,NULL,groud,J,1,28
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,37,0,Second16,NULL,pad,J,0,29
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,36,0,Second16,NULL,path,J,0,27
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,41,0,Second16,NULL,camp,J,0,29
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,35,0,Second16,NULL,beast,J,0,29
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,32,0,Second16,NULL,hilm,J,1,29
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,26,0,Second16,NULL,naint,J,1,29
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,38,0,Second16,NULL,sot,F,1,237
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,33,0,Second16,NULL,wung,J,1,554
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,29,0,Second16,NULL,geel,F,0,439
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,27,0,Second16,NULL,dit,J,1,486
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,34,0,Second16,NULL,lump,F,1,403
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Legend.
+#     Col. 9: Chosen answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,3,0,ExpItemWritten,NULL,NULL,Else,NULL,4751
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,49,0,Third16,NULL,foon,F,0,861
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,48,0,Third16,NULL,tertz,F,0,594
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,52,0,Third16,NULL,worth,J,0,544
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,50,0,Third16,NULL,smile,J,0,484
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,47,0,Third16,NULL,pakth,J,1,20
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,46,0,Third16,NULL,pobd,J,1,22
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,54,0,Third16,NULL,beat,J,0,27
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,51,0,Third16,NULL,golf,J,0,27
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,42,0,Third16,NULL,plowl,J,1,29
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,57,0,Third16,NULL,wine,J,0,29
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,44,0,Third16,NULL,slox,J,1,27
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,43,0,Third16,NULL,fout,J,1,26
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,55,0,Third16,NULL,nose,J,0,29
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,53,0,Third16,NULL,duck,J,0,29
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,45,0,Third16,NULL,lub,J,1,29
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,56,0,Third16,NULL,loaf,J,0,29
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,62,0,Fourth16,NULL,petch,J,1,29
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,58,0,Fourth16,NULL,naint,J,1,28
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,73,0,Fourth16,NULL,camp,J,0,29
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,69,0,Fourth16,NULL,pad,J,0,30
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,72,0,Fourth16,NULL,throat,J,0,28
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,64,0,Fourth16,NULL,hilm,J,1,30
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,66,0,Fourth16,NULL,lump,J,0,27
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,67,0,Fourth16,NULL,beast,J,0,30
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,61,0,Fourth16,NULL,geel,F,0,124
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,70,0,Fourth16,NULL,sot,F,1,469
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,68,0,Fourth16,NULL,path,J,0,466
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,63,0,Fourth16,NULL,vop,F,0,438
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,65,0,Fourth16,NULL,wung,J,1,449
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,60,0,Fourth16,NULL,groud,F,0,424
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,59,0,Fourth16,NULL,dit,J,1,470
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,71,0,Fourth16,NULL,face,F,1,434
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Legend.
+#     Col. 9: Chosen answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,5,0,DistItemWritten,NULL,NULL,Else,NULL,4810
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,88,0,Fifth16,NULL,loaf,F,1,547
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,76,0,Fifth16,NULL,slox,J,1,670
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,80,0,Fifth16,NULL,tertz,F,0,523
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,74,0,Fifth16,NULL,plowl,J,1,540
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,86,0,Fifth16,NULL,beat,F,1,534
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,84,0,Fifth16,NULL,worth,J,0,548
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,89,0,Fifth16,NULL,wine,J,0,528
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,81,0,Fifth16,NULL,foon,J,1,487
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,87,0,Fifth16,NULL,nose,J,0,23
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,83,0,Fifth16,NULL,golf,J,0,24
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,78,0,Fifth16,NULL,pobd,J,1,27
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,82,0,Fifth16,NULL,smile,J,0,28
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,85,0,Fifth16,NULL,duck,J,0,25
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,75,0,Fifth16,NULL,fout,J,1,28
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,77,0,Fifth16,NULL,lub,J,1,29
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,79,0,Fifth16,NULL,pakth,J,1,30
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,95,0,Sixth16,NULL,vop,J,1,28
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,94,0,Sixth16,NULL,petch,J,1,29
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,91,0,Sixth16,NULL,dit,J,1,29
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,101,0,Sixth16,NULL,pad,J,0,29
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,103,0,Sixth16,NULL,face,J,0,29
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,100,0,Sixth16,NULL,path,J,0,29
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,90,0,Sixth16,NULL,naint,F,0,121
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,102,0,Sixth16,NULL,sot,F,1,433
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,96,0,Sixth16,NULL,hilm,J,1,352
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,98,0,Sixth16,NULL,lump,F,1,357
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,92,0,Sixth16,NULL,groud,J,1,486
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,99,0,Sixth16,NULL,beast,F,1,360
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,97,0,Sixth16,NULL,wung,J,1,401
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,93,0,Sixth16,NULL,geel,F,0,294
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,104,0,Sixth16,NULL,throat,J,0,420
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,105,0,Sixth16,NULL,camp,F,1,392
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,Questionnaire,8,0,FinalScreenWritten,NULL,slow,3
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,Questionnaire,8,0,FinalScreenWritten,NULL,attention,3
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,Questionnaire,8,0,FinalScreenWritten,NULL,boring,3
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,Questionnaire,8,0,FinalScreenWritten,NULL,answermind,3
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,Questionnaire,8,0,FinalScreenWritten,NULL,rest,3
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,otherdevice,
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,AMTID,5dcv69ei82725akvfiuk3q
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,ISLL,false
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,ISINS,true
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,REPEATADVICE,false
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,ITEMID,1
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,Duration,94102
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,write_something,
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,FandJ,yes
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,advice,no
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,nonce,no
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,actual,no
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,english,yes
+1491955145,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,audio,speakers
+#
+# Results on Wednesday April 12 2017 23:14:53 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+# Design number was non-random = 59
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,14,0,First16,NULL,pobd,J,1,793
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,23,0,First16,NULL,nose,J,0,471
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,24,0,First16,NULL,loaf,J,0,19
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,15,0,First16,NULL,pakth,J,1,25
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,18,0,First16,NULL,smile,J,0,27
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,17,0,First16,NULL,foon,J,1,27
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,25,0,First16,NULL,wine,J,0,25
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,16,0,First16,NULL,tertz,J,1,27
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,11,0,First16,NULL,fout,J,1,29
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,22,0,First16,NULL,beat,J,0,26
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,19,0,First16,NULL,golf,J,0,27
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,20,0,First16,NULL,worth,J,0,28
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,10,0,First16,NULL,plowl,J,1,29
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,12,0,First16,NULL,slox,J,1,29
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,21,0,First16,NULL,duck,J,0,28
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,13,0,First16,NULL,lub,J,1,29
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,35,0,Second16,NULL,beast,J,0,28
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,28,0,Second16,NULL,groud,J,1,29
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,38,0,Second16,NULL,sot,J,0,29
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,32,0,Second16,NULL,hilm,J,1,28
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,37,0,Second16,NULL,pad,F,1,700
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,36,0,Second16,NULL,path,F,1,595
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,27,0,Second16,NULL,dit,F,0,517
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,40,0,Second16,NULL,throat,F,1,662
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,41,0,Second16,NULL,camp,F,1,574
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,30,0,Second16,NULL,petch,F,0,541
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,29,0,Second16,NULL,geel,J,1,613
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,39,0,Second16,NULL,face,F,1,629
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,34,0,Second16,NULL,lump,J,0,590
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,31,0,Second16,NULL,vop,F,0,732
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,26,0,Second16,NULL,naint,J,1,620
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,33,0,Second16,NULL,wung,F,0,593
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Legend.
+#     Col. 9: Chosen answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,3,0,ExpItemWritten,NULL,NULL,Else,NULL,7371
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,45,0,Third16,NULL,lub,J,1,679
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,55,0,Third16,NULL,nose,J,0,494
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,51,0,Third16,NULL,golf,J,0,7
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,52,0,Third16,NULL,worth,J,0,23
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,56,0,Third16,NULL,loaf,J,0,25
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,46,0,Third16,NULL,pobd,J,1,28
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,47,0,Third16,NULL,pakth,J,1,28
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,44,0,Third16,NULL,slox,J,1,29
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,54,0,Third16,NULL,beat,J,0,28
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,57,0,Third16,NULL,wine,J,0,29
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,43,0,Third16,NULL,fout,F,0,325
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,42,0,Third16,NULL,plowl,F,0,1155
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,50,0,Third16,NULL,smile,F,1,498
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,49,0,Third16,NULL,foon,F,0,8
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,48,0,Third16,NULL,tertz,F,0,27
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,53,0,Third16,NULL,duck,F,1,28
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,60,0,Fourth16,NULL,groud,F,0,30
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,67,0,Fourth16,NULL,beast,F,1,29
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,72,0,Fourth16,NULL,throat,F,1,28
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,73,0,Fourth16,NULL,camp,F,1,30
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,58,0,Fourth16,NULL,naint,F,0,29
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,71,0,Fourth16,NULL,face,F,1,28
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,62,0,Fourth16,NULL,petch,F,0,30
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,69,0,Fourth16,NULL,pad,J,0,720
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,64,0,Fourth16,NULL,hilm,J,1,517
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,65,0,Fourth16,NULL,wung,J,1,392
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,66,0,Fourth16,NULL,lump,J,0,292
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,61,0,Fourth16,NULL,geel,F,0,592
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,59,0,Fourth16,NULL,dit,F,0,655
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,68,0,Fourth16,NULL,path,J,0,560
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,63,0,Fourth16,NULL,vop,F,0,519
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,70,0,Fourth16,NULL,sot,J,0,629
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Legend.
+#     Col. 9: Chosen answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,DynamicQuestion,5,0,DistItemWritten,NULL,NULL,Continue,NULL,6116
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,76,0,Fifth16,NULL,slox,J,1,1210
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,89,0,Fifth16,NULL,wine,J,0,484
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,84,0,Fifth16,NULL,worth,J,0,20
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,80,0,Fifth16,NULL,tertz,F,0,407
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,77,0,Fifth16,NULL,lub,F,0,841
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,83,0,Fifth16,NULL,golf,J,0,736
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,85,0,Fifth16,NULL,duck,F,1,668
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,75,0,Fifth16,NULL,fout,J,1,886
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,88,0,Fifth16,NULL,loaf,J,0,469
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,79,0,Fifth16,NULL,pakth,J,1,22
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,78,0,Fifth16,NULL,pobd,J,1,26
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,81,0,Fifth16,NULL,foon,J,1,28
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,87,0,Fifth16,NULL,nose,J,0,27
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,74,0,Fifth16,NULL,plowl,J,1,29
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,86,0,Fifth16,NULL,beat,J,0,27
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,82,0,Fifth16,NULL,smile,J,0,28
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,99,0,Sixth16,NULL,beast,J,0,28
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,92,0,Sixth16,NULL,groud,J,1,29
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,94,0,Sixth16,NULL,petch,J,1,30
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,104,0,Sixth16,NULL,throat,F,1,255
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,97,0,Sixth16,NULL,wung,F,0,807
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,90,0,Sixth16,NULL,naint,F,0,661
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,96,0,Sixth16,NULL,hilm,F,0,789
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,102,0,Sixth16,NULL,sot,F,1,727
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,91,0,Sixth16,NULL,dit,J,1,567
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,98,0,Sixth16,NULL,lump,J,0,616
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,101,0,Sixth16,NULL,pad,J,0,742
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,93,0,Sixth16,NULL,geel,J,1,647
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,105,0,Sixth16,NULL,camp,F,1,518
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,95,0,Sixth16,NULL,vop,J,1,545
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,100,0,Sixth16,NULL,path,F,1,470
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,LexDecision,103,0,Sixth16,NULL,face,J,0,588
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,Questionnaire,8,0,FinalScreenWritten,NULL,slow,3
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,Questionnaire,8,0,FinalScreenWritten,NULL,attention,3
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,Questionnaire,8,0,FinalScreenWritten,NULL,boring,3
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,Questionnaire,8,0,FinalScreenWritten,NULL,answermind,3
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,Questionnaire,8,0,FinalScreenWritten,NULL,rest,3
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,otherdevice,
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,AMTID,5dd98ne121iuhwgbnin1yl
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,ISLL,false
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,ISINS,true
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,REPEATADVICE,true
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,ITEMID,1
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,Duration,259297
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,write_something,
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,FandJ,yes
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,advice,no
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,nonce,no
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,actual,no
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,english,yes
+1492038894,5a6f2fef5d60f6be4a0b34e80a4ad99f,Form,106,0,amt,NULL,audio,speakers
+#
+# Results on Wednesday April 19 2017 20:12:26 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:52.0) Gecko/20100101 Firefox/52.0
+# Design number was non-random = 60
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,14,0,First16,NULL,pobd,J,1,300
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,19,0,First16,NULL,golf,F,1,115
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,16,0,First16,NULL,tertz,J,1,74
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,18,0,First16,NULL,smile,F,1,84
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,12,0,First16,NULL,slox,J,1,39
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,21,0,First16,NULL,duck,F,1,105
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,11,0,First16,NULL,fout,J,1,23
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,22,0,First16,NULL,beat,F,1,125
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,10,0,First16,NULL,plowl,J,1,159
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,23,0,First16,NULL,nose,F,1,7
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,25,0,First16,NULL,wine,J,0,124
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,13,0,First16,NULL,lub,F,0,31
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,24,0,First16,NULL,loaf,J,0,104
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,20,0,First16,NULL,worth,F,1,95
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,17,0,First16,NULL,foon,J,1,62
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,15,0,First16,NULL,pakth,F,0,105
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,31,0,Second16,NULL,vop,J,1,25
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,37,0,Second16,NULL,pad,F,1,141
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,26,0,Second16,NULL,naint,J,1,24
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,39,0,Second16,NULL,face,J,0,168
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,27,0,Second16,NULL,dit,F,0,44
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,32,0,Second16,NULL,hilm,J,1,132
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,34,0,Second16,NULL,lump,F,1,89
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,36,0,Second16,NULL,path,J,0,86
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,40,0,Second16,NULL,throat,F,1,102
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,35,0,Second16,NULL,beast,J,0,93
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,29,0,Second16,NULL,geel,F,0,99
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,33,0,Second16,NULL,wung,J,1,80
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,38,0,Second16,NULL,sot,F,1,114
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,30,0,Second16,NULL,petch,J,1,79
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,28,0,Second16,NULL,groud,F,0,115
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,41,0,Second16,NULL,camp,J,0,72
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,57,0,Third16,NULL,wine,J,0,55
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,47,0,Third16,NULL,pakth,F,0,123
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,54,0,Third16,NULL,beat,J,0,21
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,55,0,Third16,NULL,nose,F,1,149
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,51,0,Third16,NULL,golf,J,0,7
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,53,0,Third16,NULL,duck,F,1,154
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,48,0,Third16,NULL,tertz,J,1,2
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,50,0,Third16,NULL,smile,J,0,137
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,56,0,Third16,NULL,loaf,F,1,41
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,45,0,Third16,NULL,lub,J,1,96
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,43,0,Third16,NULL,fout,F,0,77
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,49,0,Third16,NULL,foon,J,1,56
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,52,0,Third16,NULL,worth,F,1,104
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,42,0,Third16,NULL,plowl,J,1,41
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,44,0,Third16,NULL,slox,J,1,142
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,46,0,Third16,NULL,pobd,F,0,1
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,68,0,Fourth16,NULL,path,J,0,138
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,67,0,Fourth16,NULL,beast,F,1,53
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,73,0,Fourth16,NULL,camp,J,0,92
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,69,0,Fourth16,NULL,pad,F,1,129
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,70,0,Fourth16,NULL,sot,J,0,1
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,64,0,Fourth16,NULL,hilm,F,0,192
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,71,0,Fourth16,NULL,face,J,0,15
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,65,0,Fourth16,NULL,wung,J,1,163
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,62,0,Fourth16,NULL,petch,F,0,182
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,72,0,Fourth16,NULL,throat,J,0,6
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,63,0,Fourth16,NULL,vop,J,1,173
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,59,0,Fourth16,NULL,dit,F,0,42
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,61,0,Fourth16,NULL,geel,J,1,120
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,60,0,Fourth16,NULL,groud,F,0,91
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,58,0,Fourth16,NULL,naint,J,1,92
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,66,0,Fourth16,NULL,lump,F,1,87
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,88,0,Fifth16,NULL,loaf,J,0,107
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,74,0,Fifth16,NULL,plowl,F,0,130
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,86,0,Fifth16,NULL,beat,J,0,45
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,77,0,Fifth16,NULL,lub,F,0,114
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,76,0,Fifth16,NULL,slox,J,1,25
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,82,0,Fifth16,NULL,smile,F,1,132
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,84,0,Fifth16,NULL,worth,J,0,16
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,81,0,Fifth16,NULL,foon,F,0,135
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,79,0,Fifth16,NULL,pakth,J,1,6
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,78,0,Fifth16,NULL,pobd,J,1,121
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,83,0,Fifth16,NULL,golf,F,1,38
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,85,0,Fifth16,NULL,duck,J,0,94
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,89,0,Fifth16,NULL,wine,F,1,85
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,75,0,Fifth16,NULL,fout,F,0,179
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,80,0,Fifth16,NULL,tertz,J,1,6
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,87,0,Fifth16,NULL,nose,J,0,120
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,91,0,Sixth16,NULL,dit,F,0,1
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,103,0,Sixth16,NULL,face,J,0,120
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,105,0,Sixth16,NULL,camp,F,1,67
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,99,0,Sixth16,NULL,beast,J,0,62
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,102,0,Sixth16,NULL,sot,F,1,105
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,100,0,Sixth16,NULL,path,J,0,35
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,94,0,Sixth16,NULL,petch,F,0,132
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,101,0,Sixth16,NULL,pad,J,0,1
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,95,0,Sixth16,NULL,vop,J,1,134
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,96,0,Sixth16,NULL,hilm,F,0,36
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,92,0,Sixth16,NULL,groud,J,1,95
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,93,0,Sixth16,NULL,geel,F,0,85
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,98,0,Sixth16,NULL,lump,J,0,63
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,104,0,Sixth16,NULL,throat,F,1,45
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,90,0,Sixth16,NULL,naint,J,1,96
+1492632746,406b7edc10137503d07791c4481f22bf,LexDecision,97,0,Sixth16,NULL,wung,F,0,46
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Event.
+# 9. ControlID.
+# 10. Timecode.
+# 11. Time.
+1492632746,406b7edc10137503d07791c4481f22bf,DynamicQuestion,9,0,FinalScreenAudio,NULL,Click on radio,slow2,None,1599
+1492632746,406b7edc10137503d07791c4481f22bf,DynamicQuestion,9,0,FinalScreenAudio,NULL,Click on radio,attention1,None,1853
+1492632746,406b7edc10137503d07791c4481f22bf,DynamicQuestion,9,0,FinalScreenAudio,NULL,Click on radio,boring1,None,2055
+1492632746,406b7edc10137503d07791c4481f22bf,DynamicQuestion,9,0,FinalScreenAudio,NULL,Click on radio,answermind1,None,2246
+1492632746,406b7edc10137503d07791c4481f22bf,DynamicQuestion,9,0,FinalScreenAudio,NULL,Click on radio,rest1,None,2454
+1492632746,406b7edc10137503d07791c4481f22bf,DynamicQuestion,9,0,FinalScreenAudio,NULL,Click on radio,rest1,None,2649
+1492632746,406b7edc10137503d07791c4481f22bf,DynamicQuestion,9,0,FinalScreenAudio,NULL,Play audio,aud1,0,4510
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1492632746,406b7edc10137503d07791c4481f22bf,DynamicQuestion,9,0,FinalScreenAudio,NULL,slow,2
+1492632746,406b7edc10137503d07791c4481f22bf,DynamicQuestion,9,0,FinalScreenAudio,NULL,attention,1
+1492632746,406b7edc10137503d07791c4481f22bf,DynamicQuestion,9,0,FinalScreenAudio,NULL,boring,1
+1492632746,406b7edc10137503d07791c4481f22bf,DynamicQuestion,9,0,FinalScreenAudio,NULL,answermind,1
+1492632746,406b7edc10137503d07791c4481f22bf,DynamicQuestion,9,0,FinalScreenAudio,NULL,rest,1
+1492632746,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,otherdevice,
+1492632746,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,AMTID,5dg0zdjfg2xpl9mkf6ldq
+1492632746,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,ISLL,false
+1492632746,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,ISINS,true
+1492632746,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,REPEATADVICE,true
+1492632746,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,ITEMID,1
+1492632746,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,Duration,81985
+1492632746,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,write_something,JeremyTesting
+1492632746,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,FandJ,no
+1492632746,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,advice,no
+1492632746,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,nonce,no
+1492632746,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,actual,no
+1492632746,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,english,no
+1492632746,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,audio,speakers
+#
+# Results on Wednesday April 19 2017 20:19:40 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:52.0) Gecko/20100101 Firefox/52.0
+# Design number was non-random = 61
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,21,0,First16,NULL,duck,F,1,276
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,13,0,First16,NULL,lub,J,1,47
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,23,0,First16,NULL,nose,F,1,89
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,25,0,First16,NULL,wine,J,0,40
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,14,0,First16,NULL,pobd,F,0,94
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,24,0,First16,NULL,loaf,J,0,28
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,22,0,First16,NULL,beat,F,1,102
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,20,0,First16,NULL,worth,J,0,12
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,18,0,First16,NULL,smile,J,0,98
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,16,0,First16,NULL,tertz,F,0,18
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,17,0,First16,NULL,foon,J,1,126
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,19,0,First16,NULL,golf,F,1,9
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,11,0,First16,NULL,fout,J,1,103
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,15,0,First16,NULL,pakth,F,0,34
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,12,0,First16,NULL,slox,J,1,95
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,10,0,First16,NULL,plowl,F,0,89
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,38,0,Second16,NULL,sot,J,0,26
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,35,0,Second16,NULL,beast,J,0,136
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,27,0,Second16,NULL,dit,F,0,50
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,34,0,Second16,NULL,lump,J,0,75
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,31,0,Second16,NULL,vop,F,0,73
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,41,0,Second16,NULL,camp,J,0,45
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,37,0,Second16,NULL,pad,F,1,106
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,28,0,Second16,NULL,groud,J,1,7
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,29,0,Second16,NULL,geel,F,0,145
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,33,0,Second16,NULL,wung,J,1,6
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,26,0,Second16,NULL,naint,F,0,100
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,40,0,Second16,NULL,throat,J,0,20
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,32,0,Second16,NULL,hilm,F,0,138
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,39,0,Second16,NULL,face,J,0,6
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,30,0,Second16,NULL,petch,J,1,2024
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,36,0,Second16,NULL,path,F,1,90
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Field name.
+#     Col. 9: Field value.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1492633180,406b7edc10137503d07791c4481f22bf,Form,4,0,ExpItemAudio,NULL,finishTime,1492633132363
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,50,0,Third16,NULL,beat,J,0,933
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,53,0,Third16,NULL,duck,F,1,115
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,43,0,Third16,NULL,fout,J,1,111
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,51,0,Third16,NULL,golf,F,1,54
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,42,0,Third16,NULL,plowl,J,1,62
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,47,0,Third16,NULL,pakth,F,0,78
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,56,0,Third16,NULL,loaf,J,0,47
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,46,0,Third16,NULL,pobd,F,0,93
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,55,0,Third16,NULL,nose,J,0,30
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,48,0,Third16,NULL,tertz,F,0,124
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,44,0,Third16,NULL,slox,J,1,11
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,49,0,Third16,NULL,foon,J,1,106
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,52,0,Third16,NULL,worth,F,1,68
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,57,0,Third16,NULL,wine,F,1,120
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,45,0,Third16,NULL,lub,J,1,134
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,72,0,Fourth16,NULL,throat,F,1,12
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,71,0,Fourth16,NULL,face,J,0,136
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,62,0,Fourth16,NULL,petch,F,0,30
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,70,0,Fourth16,NULL,sot,J,0,143
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,58,0,Fourth16,NULL,naint,F,0,5
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,73,0,Fourth16,NULL,camp,J,0,133
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,67,0,Fourth16,NULL,beast,F,1,105
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,60,0,Fourth16,NULL,groud,J,1,55
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,66,0,Fourth16,NULL,lump,F,1,117
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,68,0,Fourth16,NULL,path,J,0,66
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,63,0,Fourth16,NULL,vop,F,0,50
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,69,0,Fourth16,NULL,pad,J,0,129
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,65,0,Fourth16,NULL,wung,F,0,51
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,61,0,Fourth16,NULL,geel,J,1,111
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,59,0,Fourth16,NULL,dit,F,0,122
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,64,0,Fourth16,NULL,hilm,J,1,76
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,78,0,Fifth16,NULL,pobd,F,0,210
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,84,0,Fifth16,NULL,worth,J,0,1
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,89,0,Fifth16,NULL,wine,J,0,148
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,82,0,Fifth16,NULL,smile,F,1,28
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,79,0,Fifth16,NULL,pakth,J,1,100
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,85,0,Fifth16,NULL,duck,F,1,54
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,87,0,Fifth16,NULL,nose,J,0,83
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,83,0,Fifth16,NULL,golf,F,1,74
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,88,0,Fifth16,NULL,loaf,J,0,56
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,81,0,Fifth16,NULL,foon,J,1,127
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,74,0,Fifth16,NULL,plowl,F,0,7
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,86,0,Fifth16,NULL,beat,J,0,121
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,77,0,Fifth16,NULL,lub,F,0,60
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,80,0,Fifth16,NULL,tertz,J,1,75
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,75,0,Fifth16,NULL,fout,F,0,103
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,76,0,Fifth16,NULL,slox,J,1,17
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,105,0,Sixth16,NULL,camp,J,0,115
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,97,0,Sixth16,NULL,wung,F,0,27
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,90,0,Sixth16,NULL,naint,J,1,137
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,94,0,Sixth16,NULL,petch,F,0,29
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,93,0,Sixth16,NULL,geel,J,1,98
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,92,0,Sixth16,NULL,groud,F,0,75
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,103,0,Sixth16,NULL,face,J,0,60
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,102,0,Sixth16,NULL,sot,F,1,104
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,95,0,Sixth16,NULL,vop,J,1,34
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,91,0,Sixth16,NULL,dit,F,0,130
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,98,0,Sixth16,NULL,lump,J,0,7
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,96,0,Sixth16,NULL,hilm,J,1,142
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,101,0,Sixth16,NULL,pad,F,1,49
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,99,0,Sixth16,NULL,beast,J,0,78
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,104,0,Sixth16,NULL,throat,F,1,95
+1492633180,406b7edc10137503d07791c4481f22bf,LexDecision,100,0,Sixth16,NULL,path,J,0,43
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Event.
+# 9. ControlID.
+# 10. Timecode.
+# 11. Time.
+1492633180,406b7edc10137503d07791c4481f22bf,DynamicQuestion,9,0,FinalScreenAudio,NULL,Page appears,wholePage,NULL,1492633147320
+1492633180,406b7edc10137503d07791c4481f22bf,DynamicQuestion,9,0,FinalScreenAudio,NULL,Play audio,aud1,0,3191
+1492633180,406b7edc10137503d07791c4481f22bf,DynamicQuestion,9,0,FinalScreenAudio,NULL,Pause audio,aud1,9.247188,12432
+1492633180,406b7edc10137503d07791c4481f22bf,DynamicQuestion,9,0,FinalScreenAudio,NULL,Playback Ended,aud1,9.247188,12440
+1492633180,406b7edc10137503d07791c4481f22bf,DynamicQuestion,9,0,FinalScreenAudio,NULL,Click on radio,slow1,None,21509
+1492633180,406b7edc10137503d07791c4481f22bf,DynamicQuestion,9,0,FinalScreenAudio,NULL,Click on radio,attention1,None,21741
+1492633180,406b7edc10137503d07791c4481f22bf,DynamicQuestion,9,0,FinalScreenAudio,NULL,Click on radio,boring1,None,22164
+1492633180,406b7edc10137503d07791c4481f22bf,DynamicQuestion,9,0,FinalScreenAudio,NULL,Click on radio,answermind1,None,22211
+1492633180,406b7edc10137503d07791c4481f22bf,DynamicQuestion,9,0,FinalScreenAudio,NULL,Click on radio,rest1,None,22462
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1492633180,406b7edc10137503d07791c4481f22bf,DynamicQuestion,9,0,FinalScreenAudio,NULL,slow,1
+1492633180,406b7edc10137503d07791c4481f22bf,DynamicQuestion,9,0,FinalScreenAudio,NULL,attention,1
+1492633180,406b7edc10137503d07791c4481f22bf,DynamicQuestion,9,0,FinalScreenAudio,NULL,boring,1
+1492633180,406b7edc10137503d07791c4481f22bf,DynamicQuestion,9,0,FinalScreenAudio,NULL,answermind,1
+1492633180,406b7edc10137503d07791c4481f22bf,DynamicQuestion,9,0,FinalScreenAudio,NULL,rest,1
+1492633180,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,otherdevice,
+1492633180,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,AMTID,5dg120517qrgtp8hoyl0fu
+1492633180,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,ISLL,false
+1492633180,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,ISINS,true
+1492633180,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,REPEATADVICE,true
+1492633180,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,ITEMID,1
+1492633180,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,Duration,100255
+1492633180,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,write_something,JeremyTesting
+1492633180,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,FandJ,no
+1492633180,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,advice,no
+1492633180,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,nonce,no
+1492633180,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,actual,no
+1492633180,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,english,no
+1492633180,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,audio,speakers
+#
+# Results on Wednesday April 19 2017 20:30:25 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:52.0) Gecko/20100101 Firefox/52.0
+# Design number was non-random = 62
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,22,0,First16,NULL,beat,J,0,80
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,10,0,First16,NULL,plowl,F,0,105
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,11,0,First16,NULL,fout,J,1,43
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,19,0,First16,NULL,golf,F,1,68
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,21,0,First16,NULL,duck,J,0,61
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,20,0,First16,NULL,worth,F,1,100
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,16,0,First16,NULL,tertz,J,1,41
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,23,0,First16,NULL,nose,F,1,84
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,12,0,First16,NULL,slox,J,1,24
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,24,0,First16,NULL,loaf,J,0,107
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,25,0,First16,NULL,wine,F,1,1
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,15,0,First16,NULL,pakth,J,1,108
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,14,0,First16,NULL,pobd,F,0,58
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,13,0,First16,NULL,lub,J,1,72
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,18,0,First16,NULL,smile,F,1,82
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,17,0,First16,NULL,foon,J,1,31
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,32,0,Second16,NULL,hilm,F,0,94
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,34,0,Second16,NULL,lump,J,0,22
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,39,0,Second16,NULL,face,J,0,125
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,27,0,Second16,NULL,dit,F,0,11
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,26,0,Second16,NULL,naint,J,1,101
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,30,0,Second16,NULL,petch,F,0,29
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,40,0,Second16,NULL,throat,J,0,95
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,35,0,Second16,NULL,beast,F,1,40
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,38,0,Second16,NULL,sot,J,0,91
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,37,0,Second16,NULL,pad,F,1,53
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,31,0,Second16,NULL,vop,J,1,69
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,36,0,Second16,NULL,path,F,1,76
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,29,0,Second16,NULL,geel,J,1,51
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,33,0,Second16,NULL,wung,F,0,92
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,28,0,Second16,NULL,groud,J,1,39
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,41,0,Second16,NULL,camp,F,1,110
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Legend.
+#     Col. 9: Chosen answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1492633825,406b7edc10137503d07791c4481f22bf,DynamicQuestion,3,0,ExpItemWritten,NULL,NULL,Else,NULL,39008
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,44,0,Third16,NULL,slox,F,0,533
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,52,0,Third16,NULL,worth,J,0,58
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,50,0,Third16,NULL,smile,F,1,92
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,42,0,Third16,NULL,plowl,J,1,54
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,51,0,Third16,NULL,golf,F,1,111
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,57,0,Third16,NULL,wine,J,0,15
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,43,0,Third16,NULL,fout,J,1,128
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,49,0,Third16,NULL,foon,F,0,21
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,55,0,Third16,NULL,nose,J,0,109
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,54,0,Third16,NULL,beat,F,1,62
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,56,0,Third16,NULL,loaf,J,0,65
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,47,0,Third16,NULL,pakth,F,0,113
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,53,0,Third16,NULL,duck,J,0,25
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,48,0,Third16,NULL,tertz,J,1,146
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,46,0,Third16,NULL,pobd,F,0,41
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,45,0,Third16,NULL,lub,J,1,114
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,62,0,Fourth16,NULL,petch,F,0,122
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,65,0,Fourth16,NULL,wung,J,1,8
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,64,0,Fourth16,NULL,hilm,J,1,146
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,61,0,Fourth16,NULL,geel,F,0,47
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,73,0,Fourth16,NULL,camp,J,0,97
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,59,0,Fourth16,NULL,dit,F,0,122
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,72,0,Fourth16,NULL,throat,J,0,40
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,70,0,Fourth16,NULL,sot,F,1,127
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,71,0,Fourth16,NULL,face,J,0,55
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,66,0,Fourth16,NULL,lump,F,1,151
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,67,0,Fourth16,NULL,beast,J,0,15
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,58,0,Fourth16,NULL,naint,F,0,160
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,60,0,Fourth16,NULL,groud,J,1,21
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,63,0,Fourth16,NULL,vop,F,0,146
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,69,0,Fourth16,NULL,pad,J,0,11
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,68,0,Fourth16,NULL,path,J,0,160
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Legend.
+#     Col. 9: Chosen answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1492633825,406b7edc10137503d07791c4481f22bf,DynamicQuestion,5,0,DistItemWritten,NULL,NULL,Continue,NULL,3819
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,83,0,Fifth16,NULL,golf,J,0,61
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,79,0,Fifth16,NULL,pakth,J,1,156
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,75,0,Fifth16,NULL,fout,F,0,96
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,82,0,Fifth16,NULL,smile,J,0,69
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,88,0,Fifth16,NULL,loaf,F,1,99
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,87,0,Fifth16,NULL,nose,J,0,58
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,85,0,Fifth16,NULL,duck,F,1,104
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,80,0,Fifth16,NULL,tertz,J,1,51
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,86,0,Fifth16,NULL,beat,F,1,131
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,74,0,Fifth16,NULL,plowl,J,1,18
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,77,0,Fifth16,NULL,lub,F,0,131
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,78,0,Fifth16,NULL,pobd,J,1,31
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,76,0,Fifth16,NULL,slox,J,1,162
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,89,0,Fifth16,NULL,wine,F,1,9
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,81,0,Fifth16,NULL,foon,F,0,125
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,84,0,Fifth16,NULL,worth,J,0,50
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,101,0,Sixth16,NULL,pad,J,0,179
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,91,0,Sixth16,NULL,dit,F,0,10
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,100,0,Sixth16,NULL,path,J,0,146
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,92,0,Sixth16,NULL,groud,F,0,56
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,90,0,Sixth16,NULL,naint,J,1,115
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,95,0,Sixth16,NULL,vop,F,0,121
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,97,0,Sixth16,NULL,wung,J,1,50
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,94,0,Sixth16,NULL,petch,F,0,161
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,96,0,Sixth16,NULL,hilm,J,1,55
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,102,0,Sixth16,NULL,sot,F,1,205
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,104,0,Sixth16,NULL,throat,J,0,34
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,103,0,Sixth16,NULL,face,F,1,179
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,105,0,Sixth16,NULL,camp,J,0,43
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,98,0,Sixth16,NULL,lump,F,1,228
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,93,0,Sixth16,NULL,geel,J,1,98
+1492633825,406b7edc10137503d07791c4481f22bf,LexDecision,99,0,Sixth16,NULL,beast,F,1,153
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1492633825,406b7edc10137503d07791c4481f22bf,Questionnaire,8,0,FinalScreenWritten,NULL,appearTime,1492633810184
+1492633825,406b7edc10137503d07791c4481f22bf,Questionnaire,8,0,FinalScreenWritten,NULL,slow,1
+1492633825,406b7edc10137503d07791c4481f22bf,Questionnaire,8,0,FinalScreenWritten,NULL,attention,2
+1492633825,406b7edc10137503d07791c4481f22bf,Questionnaire,8,0,FinalScreenWritten,NULL,boring,1
+1492633825,406b7edc10137503d07791c4481f22bf,Questionnaire,8,0,FinalScreenWritten,NULL,answermind,1
+1492633825,406b7edc10137503d07791c4481f22bf,Questionnaire,8,0,FinalScreenWritten,NULL,rest,1
+1492633825,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,otherdevice,
+1492633825,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,AMTID,5dg15wpfikhy3mkbzuoi6m
+1492633825,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,ISLL,false
+1492633825,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,ISINS,true
+1492633825,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,REPEATADVICE,true
+1492633825,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,ITEMID,1
+1492633825,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,Duration,106892
+1492633825,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,write_something,JeremyTesting
+1492633825,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,FandJ,no
+1492633825,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,advice,no
+1492633825,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,nonce,no
+1492633825,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,actual,no
+1492633825,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,english,no
+1492633825,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,audio,speakers
+#
+# Results on Wednesday April 19 2017 20:40:23 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:52.0) Gecko/20100101 Firefox/52.0
+# Design number was non-random = 63
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,11,0,First16,NULL,fout,J,1,29
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,15,0,First16,NULL,pakth,F,0,122
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,21,0,First16,NULL,duck,J,0,8
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,10,0,First16,NULL,plowl,F,0,112
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,16,0,First16,NULL,tertz,J,1,16
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,20,0,First16,NULL,worth,F,1,120
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,14,0,First16,NULL,pobd,J,1,6
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,25,0,First16,NULL,wine,J,0,88
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,23,0,First16,NULL,nose,F,1,18
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,17,0,First16,NULL,foon,F,0,489
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,19,0,First16,NULL,golf,F,1,73
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,12,0,First16,NULL,slox,F,0,74
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,22,0,First16,NULL,beat,F,1,73
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,18,0,First16,NULL,smile,F,1,71
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,13,0,First16,NULL,lub,F,0,78
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,24,0,First16,NULL,loaf,F,1,73
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,27,0,Second16,NULL,dit,F,0,70
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,33,0,Second16,NULL,wung,F,0,73
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,39,0,Second16,NULL,face,F,1,78
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,30,0,Second16,NULL,petch,F,0,73
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,26,0,Second16,NULL,naint,F,0,67
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,29,0,Second16,NULL,geel,F,0,78
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,37,0,Second16,NULL,pad,F,1,75
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,28,0,Second16,NULL,groud,F,0,75
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,36,0,Second16,NULL,path,F,1,76
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,35,0,Second16,NULL,beast,F,1,71
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,40,0,Second16,NULL,throat,F,1,79
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,32,0,Second16,NULL,hilm,F,0,77
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,31,0,Second16,NULL,vop,F,0,77
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,38,0,Second16,NULL,sot,F,1,73
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,41,0,Second16,NULL,camp,F,1,72
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,34,0,Second16,NULL,lump,F,1,74
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Legend.
+#     Col. 9: Chosen answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1492634424,406b7edc10137503d07791c4481f22bf,DynamicQuestion,3,0,ExpItemWritten,NULL,1492634399336,Else,NULL,4229
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,45,0,Third16,NULL,lub,F,0,613
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,47,0,Third16,NULL,pakth,J,1,69
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,48,0,Third16,NULL,tertz,J,1,486
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,55,0,Third16,NULL,nose,J,0,75
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,52,0,Third16,NULL,worth,J,0,72
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,46,0,Third16,NULL,pobd,J,1,74
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,57,0,Third16,NULL,wine,J,0,77
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,50,0,Third16,NULL,smile,J,0,79
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,56,0,Third16,NULL,loaf,J,0,79
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,49,0,Third16,NULL,foon,J,1,74
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,54,0,Third16,NULL,beat,J,0,71
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,44,0,Third16,NULL,slox,J,1,76
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,53,0,Third16,NULL,duck,J,0,80
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,42,0,Third16,NULL,plowl,J,1,77
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,43,0,Third16,NULL,fout,J,1,75
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,51,0,Third16,NULL,golf,J,0,76
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,65,0,Fourth16,NULL,wung,J,1,71
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,72,0,Fourth16,NULL,throat,J,0,69
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,70,0,Fourth16,NULL,sot,J,0,80
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,73,0,Fourth16,NULL,camp,J,0,75
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,62,0,Fourth16,NULL,petch,J,1,74
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,60,0,Fourth16,NULL,groud,J,1,78
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,63,0,Fourth16,NULL,vop,J,1,78
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,59,0,Fourth16,NULL,dit,J,1,81
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,66,0,Fourth16,NULL,lump,J,0,74
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,58,0,Fourth16,NULL,naint,J,1,74
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,64,0,Fourth16,NULL,hilm,J,1,82
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,69,0,Fourth16,NULL,pad,J,0,77
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,68,0,Fourth16,NULL,path,J,0,81
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,61,0,Fourth16,NULL,geel,J,1,74
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,71,0,Fourth16,NULL,face,J,0,77
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,67,0,Fourth16,NULL,beast,J,0,81
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Legend.
+#     Col. 9: Chosen answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1492634424,406b7edc10137503d07791c4481f22bf,DynamicQuestion,5,0,DistItemWritten,NULL,1492634407218,Else,NULL,3648
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,77,0,Fifth16,NULL,lub,F,0,255
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,88,0,Fifth16,NULL,loaf,J,0,265
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,85,0,Fifth16,NULL,duck,J,0,494
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,87,0,Fifth16,NULL,nose,J,0,79
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,78,0,Fifth16,NULL,pobd,J,1,77
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,86,0,Fifth16,NULL,beat,J,0,77
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,89,0,Fifth16,NULL,wine,J,0,75
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,79,0,Fifth16,NULL,pakth,J,1,80
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,74,0,Fifth16,NULL,plowl,J,1,79
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,84,0,Fifth16,NULL,worth,J,0,73
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,83,0,Fifth16,NULL,golf,J,0,79
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,81,0,Fifth16,NULL,foon,J,1,78
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,76,0,Fifth16,NULL,slox,J,1,78
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,75,0,Fifth16,NULL,fout,J,1,73
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,80,0,Fifth16,NULL,tertz,J,1,78
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,82,0,Fifth16,NULL,smile,J,0,78
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,97,0,Sixth16,NULL,wung,J,1,79
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,93,0,Sixth16,NULL,geel,J,1,75
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,91,0,Sixth16,NULL,dit,J,1,75
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,98,0,Sixth16,NULL,lump,J,0,76
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,96,0,Sixth16,NULL,hilm,J,1,80
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,94,0,Sixth16,NULL,petch,J,1,75
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,105,0,Sixth16,NULL,camp,J,0,78
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,101,0,Sixth16,NULL,pad,J,0,74
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,92,0,Sixth16,NULL,groud,J,1,80
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,102,0,Sixth16,NULL,sot,J,0,77
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,95,0,Sixth16,NULL,vop,J,1,82
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,90,0,Sixth16,NULL,naint,J,1,76
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,104,0,Sixth16,NULL,throat,J,0,76
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,99,0,Sixth16,NULL,beast,J,0,75
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,100,0,Sixth16,NULL,path,J,0,81
+1492634424,406b7edc10137503d07791c4481f22bf,LexDecision,103,0,Sixth16,NULL,face,J,0,77
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1492634424,406b7edc10137503d07791c4481f22bf,Questionnaire,8,0,FinalScreenWritten,NULL,appearTime,1492634411041
+1492634424,406b7edc10137503d07791c4481f22bf,Questionnaire,8,0,FinalScreenWritten,NULL,slow,1
+1492634424,406b7edc10137503d07791c4481f22bf,Questionnaire,8,0,FinalScreenWritten,NULL,attention,1
+1492634424,406b7edc10137503d07791c4481f22bf,Questionnaire,8,0,FinalScreenWritten,NULL,boring,1
+1492634424,406b7edc10137503d07791c4481f22bf,Questionnaire,8,0,FinalScreenWritten,NULL,answermind,1
+1492634424,406b7edc10137503d07791c4481f22bf,Questionnaire,8,0,FinalScreenWritten,NULL,rest,1
+1492634424,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,otherdevice,
+1492634424,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,AMTID,5dg19j4wr57hbp7h31ixie
+1492634424,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,ISLL,false
+1492634424,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,ISINS,true
+1492634424,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,REPEATADVICE,true
+1492634424,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,ITEMID,1
+1492634424,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,Duration,71696
+1492634424,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,write_something,JeremyTesting
+1492634424,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,FandJ,no
+1492634424,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,advice,no
+1492634424,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,nonce,no
+1492634424,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,actual,no
+1492634424,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,english,no
+1492634424,406b7edc10137503d07791c4481f22bf,Form,106,0,amt,NULL,audio,speakers

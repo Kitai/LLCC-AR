@@ -9,9 +9,23 @@ var REPEATADVICE = true,
     ITEMID = 1+Math.floor(Math.random()*2),
     userID = 0; // For MTurk, dealt with at the end*/
 
-var writtenOrAudio = "Written";
+var writtenOrAudioReplay = "Written";
 
-if (!REPEATADVICE) writtenOrAudio = "Written";
+var writtenOrAudioAdvice = "Written";
+
+
+var Parameters = {},
+    URLParameters = window.location.search.replace("?", "").split("&");
+
+for (parameter in URLParameters) Parameters[URLParameters[parameter].split("=")[0]] = URLParameters[parameter].split("=")[1];
+
+if (typeof Parameters.REPEATADVICE != "undefined") REPEATADVICE = (Parameters.REPEATADVICE == "true");
+if (typeof Parameters.writtenOrAudioReplay != "undefined") writtenOrAudioReplay = Parameters.writtenOrAudioReplay;
+if (typeof Parameters.writtenOrAudioAdvice != "undefined") writtenOrAudioAdvice = Parameters.writtenOrAudioAdvice;
+
+
+if (!REPEATADVICE) writtenOrAudioReplay = "Written";
+
 
 var startTime = Date.now();
 
@@ -23,10 +37,11 @@ var startTime = Date.now();
 //var shuffleSequence = seq("Fifth16", "Sixth16", "FinalScreen");
 
 // Why not just use "First16" and "Second16"? Aren't <Third, Fourth> and <Fifth, Sixth> the exact same pair? So that I know which block a token was played in for analysis later
-var shuffleSequence = seq("Test", "Instructions", randomize("First16"),randomize("Second16"),
-                          "ExpItem",randomize("Third16"),randomize("Fourth16"),
-                          "DistItem",randomize( "Fifth16"),randomize("Sixth16"),
-                          "FinalScreen"+writtenOrAudio,"amt");
+var shuffleSequence = seq("Test", "Instructions", "Preload",
+                          randomize("First16"),randomize("Second16"),
+                          "ExpItem"+writtenOrAudioAdvice,randomize("Third16"),randomize("Fourth16"),
+                          "DistItem"+writtenOrAudioAdvice,randomize( "Fifth16"),randomize("Sixth16"),
+                          "FinalScreen"+writtenOrAudioReplay,"amt");
 
 //var shuffleSequence = seq(randomize("First16"),randomize("Second16"),"ExpItem",randomize("Third16"),randomize("Fourth16"),"DistItem",randomize( "Fifth16"),randomize("Sixth16"),"FinalScreen");
 //var practiceItemTypes = ["practice"];
@@ -93,24 +108,47 @@ define_ibex_controller({
 });
 
 
-var items = [
+var writtenAdvice = function (page) {
     
-    ["Test", "DynamicQuestion", {
+    return {
         
         page: "<div id='page'></div>",
-        answers: {Continue: "Click here to continue."},
+        clickableAnswers: false,
+        answers: {Continue: ["F", "Press F or J to continue."], Else: ["J", ""]},
         sequence: [
-            
             {this: "page"},
             function(x){
-                $("#page").html(htmlCodeToDOM({include:"chatbox.html"}));
+                $("#page").html(htmlCodeToDOM({include:page}));
+            },
+            {pause: 500},
+            function(x){
+                $("#sound")[0].play();
+                $("#first").css("display", "block");
+                $("#typing").css("display", "none");
+            },
+            {pause: 300},
+            function(x){
+                $("#typing").css("display", "block");
+            },
+            {pause: 2500},
+            function(x){
+                $("#sound")[0].play();
+                $("#second").css("display", "block");
+                $("#typing").css("display", "none");
+                x.safeBind($(document),"keydown", function(e) {
+                  if (e.keyCode != "F".charCodeAt(0) && e.keyCode != "J".charCodeAt(0)) return;
+                  x.question = Date.now();
+                });
             },
             {this: "answers"}
-            
-            ]
-        }
-    ],
+        ]
+        
+    };
     
+};
+
+
+var items = [
     
     ["Instructions", "Message", {
         transfer: "click",
@@ -142,9 +180,12 @@ var items = [
      
     ), // The closing parenthesis indicates the end of the conditional and the comma indicates separates this item from the next item
     
+    ["ExpItemWritten", "Preloader", { host: "http://files.lab.florianschwarz.net/ibexfiles/LucyCate/", files: ["notification.mp3"] } ],
     
-    ["ExpItem",
-        "Message",
+    ["ExpItemWritten", "DynamicQuestion", writtenAdvice("slowly_written.html")],
+    
+    ["ExpItemAudio",
+        "Form",
             (ISINS ? // If we are in the INS condition
              
              {
@@ -162,7 +203,10 @@ var items = [
             ) // The closing parenthesis indicates the end of the conditional
     ],
     
-    ["DistItem",
+    
+    ["DistItemWritten", "DynamicQuestion", writtenAdvice("breath_written.html")],
+    
+    ["DistItemAudio",
         "Message", {
             transfer: "keypress",
             html: {include: "distractor_audio.html" }
@@ -216,12 +260,19 @@ var items = [
                                           }));
                     $("#questionnaire").html(htmlCodeToDOM({include:"questionform"+ITEMID+".html"}));
                     
-                    $("#thinkcarefully, #questionnaire").css("display", "none");
+                    // $("#thinkcarefully, #questionnaire").css("display", "none");
                     
                     $("#preAllConds, #audioPage, #repeatadvice, #thinkcarefully, #questionnaire").css("text-align", "left");
                 },
                 function(t){                    
                     t.ArrayOfAnswers = [];
+                    
+                    t.ArrayOfAnswers.push([
+                          ["Event", "Page appears"],
+                          ["ControlID", "wholePage"],
+                          ["Timecode", "NULL"],
+                          ["Time", t.creationTime]
+                        ]);
                     
                     t.HasPlayedFile = function() {
                         if (this.id == "aud1") t.aud1played = true;
@@ -229,7 +280,7 @@ var items = [
                         
                         $(this).parent().children()[0].src = "http://files.lab.florianschwarz.net/ibexfiles/Pictures/Replay.png";
                         $("#audioBtn1, #audioBtn2").css({"opacity":"1", "filter": "alpha(opacity=100)"});
-                        if(t.aud1played && t.aud2played) $("#thinkcarefully, #questionnaire").css("display", "block");
+                        // if(t.aud1played && t.aud2played) $("#thinkcarefully, #questionnaire").css("display", "block");
                         
                         t.ArrayOfAnswers.push([
                             ["Event", "Playback Ended"],
@@ -458,6 +509,18 @@ var items = [
     ["Sixth16","LexDecision", {word: "face",right: 0}],
     ["Sixth16","LexDecision", {word: "throat",right: 0}],
     ["Sixth16","LexDecision", {word: "camp",right: 0}],
+
+    // Preloading the audio files
+    ["Preload", "Preloader", {
+      host: "http://files.lab.florianschwarz.net/ibexfiles/LucyCate/LDSF/",
+      files: ["beast.mp3","beat.mp3","camp.mp3","dit.mp3","duck.mp3","face.mp3","foon.mp3","fout.mp3",
+              "geel.mp3","golf.mp3","groud.mp3","hilm.mp3","loaf.mp3","lub.mp3","lump.mp3","naint.mp3",
+              "nose.mp3","pad.mp3","pakth.mp3","path.mp3","petch.mp3","plowl.mp3","pobd.mp3","slox.mp3",
+              "smile.mp3","sot.mp3","tertz.mp3","throat.mp3","vop.mp3","wine.mp3","worth.mp3","wung.mp3"]
+    },
+
+    ["Preload", "PreloaderCheck", {}],
+
     
     // Handling MTurk
     ["amt", "Form", {
