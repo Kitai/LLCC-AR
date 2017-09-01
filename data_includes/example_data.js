@@ -13,6 +13,8 @@ var writtenOrAudioReplay = "Written";
 
 var writtenOrAudioAdvice = "Written";
 
+var trimmedAudioRepetition = "trimmed"; // Set to "" (no text) for repetition audios with greetings
+
 
 var Parameters = {},
     URLParameters = window.location.search.replace("?", "").split("&");
@@ -256,7 +258,7 @@ var items = [
                 "<div id='questionnaire'></div>",
                 function(t){
                     $("#preAllConds").html(htmlCodeToDOM({include:"instrctns_postexpermnt_prequaire_allconds.html"}));
-                    $("#audioPage").html(htmlCodeToDOM({include:"audiorepeatadvice.html"}));
+                    $("#audioPage").html(htmlCodeToDOM({include:"audiorepeatadvice.html"+trimmedAudioRepetition}));
                     $("#thinkcarefully").html(htmlCodeToDOM({include:
                                            ( ISLL ? "instrctns_postexpermnt2_thnkcrfly.html" : "blank.html" ),
                                           }));
